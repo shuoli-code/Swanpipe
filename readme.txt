@@ -55,3 +55,29 @@ Session remains alive until you:
 Type exit, or
 
 Run tmux kill-session -t swanrun
+
+
+git stuff
+git config user.name "shuoli-code"
+git config user.email "shuolee1991@gmail.com"
+git remote add origin git@github.com:shuoli-code/Swanpipe.git
+
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
+
+git remote -v
+
+first time need to add key for github:
+ssh-keygen -t ed25519 -C "your_email@example.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ssh-add -l
+cat ~/.ssh/id_ed25519.pub
+git remote -v  # confirm SSH form (git@github.com:...)
+git push -u origin main
+
+
+
+

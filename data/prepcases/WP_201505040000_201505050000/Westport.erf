@@ -1,4 +1,0 @@
-Error            : time string unreadable: 2015_05_02.000000
-Error            : time string unreadable: 2015_05_07_000000
-Error            : start time [tbegc] before current time
-Severe error     : start time [tbegc] greater or equal end time [tendc]
