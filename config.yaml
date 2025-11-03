@@ -1,0 +1,26 @@
+project_name: Westport
+run_period:
+  start: 2021-10-01 00:00
+  end: 2021-11-10 12:00
+  wind_dt_hours: 1
+  output_dt_hours: 1
+  use_bound: 1
+  use_wind: 1
+  use_original_wind: 0
+  use_correct_wind_single: 0
+  use_correct_wind_multi: 1
+  hotstart: 0
+  nexthotstart: 1
+paths:
+  base_case: data/Westport_base
+  work_dir: /media/o2met/Project/swanpipe/prepcases
+  case_dir: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111101200
+  hotstart_dir: /media/o2met/Project/swanpipe/prepcases/Westport_202106010000_202106050000
+  out_dir: /media/o2met/Project/swanpipe/output
+  case_out_dir: /media/o2met/Project/swanpipe/output/Westport_202110010000_202111101200
+  post_dir: /media/o2met/Project/swanpipe/postprocess
+  case_post_dir: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111101200
+  winddata_dir: /media/o2met/data
+  bounddata_dir: /media/o2met/WAMSI_5/waves
+  oldfort_dir: data/input
+  obsdata_dir: /media/o2met/Project/swanpipe/obsdata

@@ -1,0 +1,488 @@
+2025-10-15 03:59:35 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 03:59:35 [INFO] swan.WP: 💾 Saving SWAN wind file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 03:59:37 [INFO] swan.WP: ✅ SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 03:59:37 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 03:59:38 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 03:59:38 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 03:59:46 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 03:59:46 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 03:59:46 [INFO] swan.WP: Preparing SWAN run folder: data/prepcases/WP_201505040000_201505050000
+2025-10-15 03:59:46 [INFO] swan.WP: Preparing SWAN .swn file
+2025-10-15 03:59:46 [INFO] swan.WP: Included 50 boundary files from boundary_list.txt
+2025-10-15 03:59:46 [INFO] swan.WP: Included Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat wind file
+2025-10-15 03:59:46 [INFO] swan.WP: SWAN input file written → data/prepcases/WP_201505040000_201505050000/Westport.swn
+2025-10-15 04:00:41 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 04:00:41 [INFO] swan.WP: 💾 Saving SWAN wind file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 04:00:42 [INFO] swan.WP: ✅ SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 04:00:42 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 04:00:43 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 04:00:43 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 04:00:52 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 04:00:52 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 04:00:52 [INFO] swan.WP: Preparing SWAN run folder: data/prepcases/WP_201505040000_201505050000
+2025-10-15 04:00:52 [INFO] swan.WP: Preparing SWAN .swn file
+2025-10-15 04:00:52 [INFO] swan.WP: Included 50 boundary files from boundary_list.txt
+2025-10-15 04:00:52 [INFO] swan.WP: Included Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat wind file
+2025-10-15 04:00:52 [INFO] swan.WP: SWAN input file written → data/prepcases/WP_201505040000_201505050000/Westport.swn
+2025-10-15 04:00:52 [INFO] swan.WP: Starting SWAN for project: Westport
+2025-10-15 04:00:52 [INFO] swan.WP: Simulation period: 2015-05-04_00-00 → 2015-05-05_00-00
+2025-10-15 04:00:52 [INFO] swan.WP: Working directory: data/prepcases/WP_201505040000_201505050000
+2025-10-15 04:00:52 [INFO] swan.WP: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-15 04:29:20 [INFO] swan.WP: SWAN finished successfully in 28.47 minutes.
+2025-10-15 06:28:09 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:28:37 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:28:37 [INFO] swan.WP: Using VTU file: Westport_9.vtu
+2025-10-15 06:33:17 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:34:06 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:34:06 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 06:34:34 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:34:34 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 06:39:39 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:40:51 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:40:51 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 06:41:02 [INFO] swan.WP: ✅ Post-processing completed successfully.
+2025-10-15 06:42:51 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:42:51 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 06:43:01 [INFO] swan.WP: ✅ Post-processing completed successfully.
+2025-10-15 06:44:34 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 06:44:34 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 06:44:45 [INFO] swan.WP: ✅ Post-processing completed successfully.
+2025-10-15 07:01:56 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:01:56 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:02:11 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 07:11:11 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:11:11 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:16:10 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:16:10 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:16:27 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 07:29:33 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:29:33 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:31:08 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:31:08 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:31:31 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:31:31 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:32:56 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:32:56 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:34:54 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:34:54 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:35:10 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 07:51:53 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 07:51:53 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 07:52:04 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 08:07:02 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 08:07:02 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 08:07:14 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 08:13:01 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 08:13:01 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 08:13:12 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 08:26:06 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 08:26:06 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 08:27:02 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 08:27:02 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 08:27:13 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png
+2025-10-15 09:39:39 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:39:39 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:39:39 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:39:40 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:39:40 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:39:41 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as x_new.min(), y_new.min(), dx_m, dy_m
+2025-10-15 09:39:41 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:40:37 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:40:37 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:40:38 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:40:38 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:40:38 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:40:39 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as x_new.min(), y_new.min(), dx_m, dy_m
+2025-10-15 09:40:39 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:40:47 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:40:47 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:40:47 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:40:47 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:40:47 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:40:48 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328
+2025-10-15 09:40:48 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:48:58 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:48:58 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:48:58 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:48:58 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:48:58 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:49:00 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-15 09:49:00 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:49:00 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 09:49:00 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 09:49:00 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 09:49:08 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 09:49:08 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 09:49:08 [INFO] swan.WP: Removing existing folder: data/prepcases/WP_201505040000_201505050000/Westport_output
+2025-10-15 09:49:08 [INFO] swan.WP: Preparing SWAN run folder: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:49:08 [INFO] swan.WP: Preparing SWAN .swn file
+2025-10-15 09:49:08 [INFO] swan.WP: Included 50 boundary files from boundary_list.txt
+2025-10-15 09:49:08 [INFO] swan.WP: Included Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat wind file
+2025-10-15 09:49:08 [INFO] swan.WP: SWAN input file written → data/prepcases/WP_201505040000_201505050000/Westport.swn
+2025-10-15 09:49:08 [INFO] swan.WP: Starting SWAN for project: Westport
+2025-10-15 09:49:08 [INFO] swan.WP: Simulation period: 2015-05-04_00-00 → 2015-05-05_00-00
+2025-10-15 09:49:08 [INFO] swan.WP: Working directory: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:49:08 [INFO] swan.WP: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-15 09:56:51 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:56:51 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:56:51 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:56:51 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:56:51 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:56:53 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-15 09:56:53 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:56:53 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 09:56:54 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 09:56:54 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 09:57:01 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 09:57:01 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 09:57:35 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:57:35 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:57:36 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:57:36 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:57:36 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:57:37 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-15 09:57:37 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:57:37 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 09:57:38 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 09:57:38 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 09:57:47 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 09:57:47 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 09:57:47 [INFO] swan.WP: Removing existing folder: data/prepcases/WP_201505040000_201505050000/Westport_output
+2025-10-15 09:57:47 [INFO] swan.WP: Preparing SWAN run folder: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:57:47 [INFO] swan.WP: Preparing SWAN .swn file
+2025-10-15 09:57:47 [INFO] swan.WP: Included 50 boundary files from boundary_list.txt
+2025-10-15 09:57:47 [INFO] swan.WP: Included Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat wind file
+2025-10-15 09:57:47 [INFO] swan.WP: SWAN input file written → data/prepcases/WP_201505040000_201505050000/Westport.swn
+2025-10-15 09:57:47 [INFO] swan.WP: Starting SWAN for project: Westport
+2025-10-15 09:57:47 [INFO] swan.WP: Simulation period: 2015-05-04_00-00 → 2015-05-05_00-00
+2025-10-15 09:57:47 [INFO] swan.WP: Working directory: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:57:47 [INFO] swan.WP: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-15 09:58:16 [INFO] swan.WP: SWAN finished successfully in 0.49 minutes.
+2025-10-15 09:58:16 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 09:58:16 [ERROR] swan.WP: ❌ No .vtu files found in results directory.
+2025-10-15 09:59:26 [INFO] swan.WP: 🌀 Preparing wind data between 2015-05-02 00:00:00 and 2015-05-07 00:00:00
+2025-10-15 09:59:26 [INFO] swan.WP: 💾 Output file: data/prepcases/WP_201505040000_201505050000/Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:59:27 [INFO] swan.WP: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-15 09:59:27 [INFO] swan.WP: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-15 09:59:27 [INFO] swan.WP: New projected grid: nx=23, ny=27
+2025-10-15 09:59:28 [INFO] swan.WP: ✅ Interpolated wind data: 121 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-15 09:59:28 [INFO] swan.WP: 💨 SWAN wind file written: Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat
+2025-10-15 09:59:28 [INFO] swan.WP: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 09:59:29 [INFO] swan.WP: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 09:59:29 [INFO] swan.WP: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 09:59:36 [INFO] swan.WP: ✅ Boundary list saved: data/prepcases/WP_201505040000_201505050000/boundary_list.txt
+2025-10-15 09:59:36 [INFO] swan.WP: ✅ Saved coordinates: data/prepcases/WP_201505040000_201505050000/selected_node_coords.txt
+2025-10-15 09:59:36 [INFO] swan.WP: Removing existing folder: data/prepcases/WP_201505040000_201505050000/Westport_output
+2025-10-15 09:59:36 [INFO] swan.WP: Preparing SWAN run folder: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:59:36 [INFO] swan.WP: Preparing SWAN .swn file
+2025-10-15 09:59:36 [INFO] swan.WP: Included 50 boundary files from boundary_list.txt
+2025-10-15 09:59:36 [INFO] swan.WP: Included Barrac2_2015_05_02_0000_to_2015_05_07_0000.dat wind file
+2025-10-15 09:59:36 [INFO] swan.WP: SWAN input file written → data/prepcases/WP_201505040000_201505050000/Westport.swn
+2025-10-15 09:59:36 [INFO] swan.WP: Starting SWAN for project: Westport
+2025-10-15 09:59:36 [INFO] swan.WP: Simulation period: 2015-05-04_00-00 → 2015-05-05_00-00
+2025-10-15 09:59:36 [INFO] swan.WP: Working directory: data/prepcases/WP_201505040000_201505050000
+2025-10-15 09:59:36 [INFO] swan.WP: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-15 10:19:10 [INFO] swan.WP: SWAN finished successfully in 19.58 minutes.
+2025-10-15 10:19:10 [INFO] swan.WP: ▶ Starting post-processing for WP
+2025-10-15 10:19:10 [INFO] swan.WP: Using VTU file: Westport_24.vtu
+2025-10-15 10:19:22 [INFO] swan.WP: ✅ Post-processing completed successfully. Figure saved as WP_wave_fields_24.png

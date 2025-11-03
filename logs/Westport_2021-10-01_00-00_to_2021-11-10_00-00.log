@@ -1,0 +1,946 @@
+2025-10-30 08:11:50 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-10-30 08:11:50 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-10-30 08:11:50 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-30 08:11:50 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-30 08:11:50 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-10-30 08:12:09 [INFO] swan.Westport: ✅ Interpolated wind data: 1057 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-30 08:12:09 [INFO] swan.Westport: 💨 SWAN wind file written: Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-10-30 08:12:09 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-30 08:12:10 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-30 08:12:10 [INFO] swan.Westport: ✅ Found 43 NetCDF files covering requested period
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-30 08:14:26 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-30 08:14:27 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/boundary_list.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/selected_node_coords.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000
+2025-10-30 08:14:28 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-10-30 08:14:28 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-10-30 08:14:28 [INFO] swan.Westport: Included Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat wind file
+2025-10-30 08:14:28 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.swn
+2025-10-30 08:14:28 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-10-30 08:14:28 [INFO] swan.Westport: Simulation period: 2021-10-01_00-00 → 2021-11-10_00-00
+2025-10-30 08:14:28 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000
+2025-10-30 08:14:28 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-30 18:09:46 [INFO] swan.Westport: SWAN finished successfully in 595.30 minutes.
+2025-10-30 18:09:46 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-10-30 18:09:46 [INFO] swan.Westport: ✅ Using VTU file: Westport_960.vtu for time 2021-11-09 23:00:00
+2025-10-30 18:09:54 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_960_20211109230000.png
+2025-10-30 18:09:54 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.tab
+2025-10-30 18:09:54 [INFO] swan.Westport: SWAN output read successfully for 961 timesteps, using location 1 of 12
+2025-10-30 18:09:54 [INFO] swan.Westport: Reading observation files
+2025-10-30 18:09:55 [INFO] swan.Westport: Filtered observation data to 1921 points between 2021-10-01 00:00:00 and 2021-11-10 00:00:00: note that hs/tp is for total, dir is for swell
+2025-10-30 18:09:55 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-10-30 18:09:55 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.391, RMSE=0.729, MAE=0.478, SI=0.297, Corr=0.773, Willmott=0.836, RelBias(%)=15.914
+2025-10-30 18:09:55 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.117, RMSE=1.419, MAE=1.059, SI=0.111, Corr=0.634, Willmott=0.760, RelBias(%)=0.917
+2025-10-30 18:09:55 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.854, RMSE=17.190, MAE=13.981, SI=0.068, Corr=0.456, Willmott=0.526, RelBias(%)=-3.913
+2025-10-30 18:09:56 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/SWAN_Validation_Rottnest.png
+2025-10-30 18:09:56 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-10-30 18:09:56 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-30 18:09:58 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-10-30 18:09:58 [INFO] swan.Westport: ✅ 1D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec1D.png
+2025-10-30 18:09:58 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-30 18:09:58 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-10-30 18:09:59 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-10-31 01:34:48 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:34:50 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 01:34:50 [WARNING] swan.Westport: No observed spectrum files found in /media/o2met/Project/swanpipe/obsdata/Rottnest/202111
+2025-10-31 01:38:14 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:38:15 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 01:38:15 [WARNING] swan.Westport: No observed spectrum files found in /media/o2met/Project/swanpipe/obsdata/Rottnest/202111
+2025-10-31 01:39:07 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:39:08 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 01:40:23 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:40:23 [ERROR] swan.Westport: ❌ Failed to read SWAN spectrum: strptime() argument 1 must be str, not datetime.datetime
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 910, in validate_swan_spectrum_1d_obs
+    if step_time == datetime.strptime(target_time, "%Y%m%d.%H%M%S"):
+                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: strptime() argument 1 must be str, not datetime.datetime
+2025-10-31 01:41:31 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:41:31 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 01:41:31 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 01:56:29 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 01:56:30 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 01:56:30 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:00:15 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:00:15 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:00:15 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:00:55 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:00:56 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:00:56 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:01:37 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:01:38 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:01:38 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:10:23 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:10:24 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:10:24 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:13:48 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:13:48 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:13:48 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:14:55 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:14:56 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:14:56 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:16:48 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:16:48 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:16:48 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:16:49 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare.png
+2025-10-31 02:41:20 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:41:20 [ERROR] swan.Westport: ❌ Failed to read SWAN spectrum: cannot access local variable 'scale_factor' where it is not associated with a value
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 930, in validate_swan_spectrum_1d_obs
+    print(scale_factor, dtheta)
+          ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'scale_factor' where it is not associated with a value
+2025-10-31 02:41:53 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:41:53 [ERROR] swan.Westport: ❌ Failed to read SWAN spectrum: cannot access local variable 'scale_factor' where it is not associated with a value
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 930, in validate_swan_spectrum_1d_obs
+    print(scale_factor, dtheta)
+          ^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'scale_factor' where it is not associated with a value
+2025-10-31 02:43:36 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:43:37 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:43:37 [ERROR] swan.Westport: ❌ Failed to read SWAN spectrum: cannot access local variable 'dtheta' where it is not associated with a value
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 923, in validate_swan_spectrum_1d_obs
+    print(scale_factor, dtheta)
+                        ^^^^^^
+UnboundLocalError: cannot access local variable 'dtheta' where it is not associated with a value
+2025-10-31 02:44:09 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:44:09 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:44:09 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:44:09 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare.png
+2025-10-31 02:48:19 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:48:19 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:48:20 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:48:20 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare.png
+2025-10-31 02:50:13 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 02:50:14 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 02:50:14 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 02:50:14 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare.png
+2025-10-31 03:19:25 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-10-31 03:19:25 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-10-31 03:19:25 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-10-31 03:19:25 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare_normalized.png
+2025-11-01 04:56:36 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-01 04:56:36 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-01 04:56:37 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-01 04:56:37 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-01 04:56:37 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-01 04:56:52 [INFO] swan.Westport: ✅ Interpolated wind data: 1057 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-11-01 04:56:53 [INFO] swan.Westport: 💨 SWAN wind file written: Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-01 04:56:53 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-11-01 04:56:53 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-11-01 04:56:53 [INFO] swan.Westport: ✅ Found 43 NetCDF files covering requested period
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-11-01 04:58:42 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-11-01 04:58:43 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/boundary_list.txt
+2025-11-01 04:58:44 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/selected_node_coords.txt
+2025-11-01 04:58:44 [INFO] swan.Westport: Removing existing folder: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport_output
+2025-11-01 04:58:55 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000
+2025-11-01 04:58:55 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-11-01 04:58:55 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-11-01 04:58:55 [INFO] swan.Westport: Included Barrac2_2021_09_29_0000_to_2021_11_12_0000.dat wind file
+2025-11-01 04:58:55 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.swn
+2025-11-01 04:58:55 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-11-01 04:58:55 [INFO] swan.Westport: Simulation period: 2021-10-01_00-00 → 2021-11-10_00-00
+2025-11-01 04:58:55 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000
+2025-11-01 04:58:55 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-11-01 17:10:03 [INFO] swan.Westport: SWAN finished successfully in 731.13 minutes.
+2025-11-01 17:10:03 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-11-01 17:10:03 [INFO] swan.Westport: ✅ Using VTU file: Westport_960.vtu for time 2021-11-09 23:00:00
+2025-11-01 17:10:11 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_960_20211109230000_UTC.png
+2025-11-01 17:10:11 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.tab
+2025-11-01 17:10:12 [INFO] swan.Westport: SWAN output read successfully for 961 timesteps, using location 1 of 12
+2025-11-01 17:10:12 [INFO] swan.Westport: Reading observation files
+2025-11-01 17:10:13 [INFO] swan.Westport: Filtered observation data to 1921 points between 2021-10-01 00:00:00 and 2021-11-10 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 17:10:13 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 17:10:13 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.383, RMSE=0.482, MAE=0.402, SI=0.197, Corr=0.949, Willmott=0.929, RelBias(%)=15.640
+2025-11-01 17:10:13 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.120, RMSE=1.262, MAE=0.906, SI=0.099, Corr=0.724, Willmott=0.812, RelBias(%)=0.942
+2025-11-01 17:10:13 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.888, RMSE=16.353, MAE=13.176, SI=0.065, Corr=0.568, Willmott=0.593, RelBias(%)=-3.928
+2025-11-01 17:10:14 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/SWAN_Validation_Rottnest.png
+2025-11-01 17:10:14 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 17:10:14 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 17:10:14 [INFO] swan.Westport: SWAN wind data read successfully for 961 timesteps
+2025-11-01 17:10:14 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 17:10:16 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 17:10:16 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57601 records
+2025-11-01 17:10:17 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-11-01 17:10:17 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-01 17:10:19 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-01 17:10:20 [INFO] swan.Westport: ✅ 1D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec1D.png
+2025-11-01 17:10:20 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-01 17:10:20 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-01 17:10:20 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-11-01 17:10:20 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-01 17:10:21 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-11-01 17:10:21 [INFO] swan.Westport: SWAN_Hs from spectrum: 0.1931404825237982
+2025-11-01 17:10:21 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-10T07h13.dat (Δt = 13.0 min)
+2025-11-01 17:10:21 [INFO] swan.Westport: obs_hs from spectrum: 1.2480442645419791
+2025-11-01 17:10:21 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_2021-11-09 23:00:00_UTC_spec1D_compare_normalized.png
+2025-11-01 17:10:21 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-01 17:10:21 [INFO] swan.Westport: Closest observed file: 2021-11-10T07h13.dat (Δt=13.0 min)
+2025-11-01 17:10:22 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D_compare.png
+2025-11-02 01:24:55 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:24:57 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-02 01:24:57 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-11-02 01:24:57 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:24:57 [INFO] swan.Westport: Closest observed file: 2021-11-10T07h13.dat (Δt=13.0 min)
+2025-11-02 01:24:58 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D_compare.png
+2025-11-02 01:30:56 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:30:57 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-02 01:30:58 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-11-02 01:30:58 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:30:58 [INFO] swan.Westport: Closest observed file: 2021-11-10T07h13.dat (Δt=13.0 min)
+2025-11-02 01:30:58 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D_compare.png
+2025-11-02 01:35:45 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:35:45 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-02 01:35:46 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-11-02 01:35:46 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Westport.spec
+2025-11-02 01:35:46 [INFO] swan.Westport: Closest observed file: 2021-11-10T07h13.dat (Δt=13.0 min)
+2025-11-02 01:35:46 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/Westport_Rottnest_20211109.230000_spec2D_compare.png
+2025-11-02 05:04:01 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:04:01 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:06:10 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:06:10 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:10:57 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:10:57 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:11:22 [INFO] swan.Westport: ✅ Comparison BARRAC2 BOM MULTI plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 05:11:23 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:24:00 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:24:00 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:24:26 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 05:24:26 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:49:03 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:49:03 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:49:30 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 05:49:31 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:55:07 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:55:07 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:55:07 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 05:55:07 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 05:55:07 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 05:55:21 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 05:55:21 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 05:56:58 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:56:58 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:56:58 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 05:56:58 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 05:56:58 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 05:57:13 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 05:57:13 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 05:57:16 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 05:57:21 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 05:57:23 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 05:58:09 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 05:58:09 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 05:58:09 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 05:58:09 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 05:58:09 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 05:58:25 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 05:58:25 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 05:58:28 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 05:58:33 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 05:58:35 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 05:58:37 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 05:58:38 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:42:27 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 06:42:27 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:42:27 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 06:42:27 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3751.7 m, dy=4434.7 m
+2025-11-02 06:42:27 [INFO] swan.Westport: New projected grid: nx=29, ny=35
+2025-11-02 06:42:42 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 29 x 35 grid
+2025-11-02 06:42:42 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 06:42:44 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 06:42:49 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 06:42:52 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 06:42:54 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 06:42:55 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:44:43 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 06:44:43 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:44:43 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 06:44:43 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 06:44:43 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 06:45:01 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 06:45:01 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 06:45:04 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 06:45:09 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 06:45:11 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 06:45:13 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 06:45:14 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:58:25 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 06:58:25 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 06:58:25 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 06:58:25 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 06:58:25 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 06:58:43 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 06:58:43 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 06:58:46 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 06:58:51 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 06:58:53 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 06:58:56 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 06:58:56 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:01:47 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:01:47 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:01:47 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 07:01:47 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 07:01:47 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 07:02:06 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 07:02:06 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 07:02:09 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 07:02:14 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 07:02:17 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 07:02:19 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 07:02:19 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:21:49 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:21:49 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:21:49 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 07:21:49 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 07:21:49 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 07:22:07 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 07:22:07 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 07:22:10 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 07:22:15 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 07:22:18 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 07:22:18 [INFO] swan.Westport: ⚙️ Applying multi-station correction to full BARRA-C2 field
+2025-11-02 07:22:18 [INFO] swan.Westport: ✅ Multi-station correction applied to wind field
+2025-11-02 07:26:12 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:26:12 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:26:12 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 07:26:12 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 07:26:12 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 07:26:30 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 07:26:30 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 07:26:33 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 07:26:38 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 07:26:41 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 07:26:41 [INFO] swan.Westport: ⚙️ Applying multi-station correction to full BARRA-C2 field
+2025-11-02 07:26:41 [INFO] swan.Westport: ✅ Multi-station correction applied to wind field
+2025-11-02 07:26:44 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 07:26:44 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:36:50 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:36:50 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:36:50 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-11-02 07:36:50 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-11-02 07:36:50 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-11-02 07:37:10 [INFO] swan.Westport: ✅ Interpolated BARRA-C2: 1057 timesteps, 23 x 27 grid
+2025-11-02 07:37:10 [INFO] swan.Westport: 🔹 Processing station: ROTTNEST
+2025-11-02 07:37:12 [INFO] swan.Westport: 🔹 Processing station: OCEANREEF
+2025-11-02 07:37:17 [INFO] swan.Westport: 🔹 Processing station: SWANBOURNE
+2025-11-02 07:37:20 [INFO] swan.Westport: 🔹 Processing station: GARDENISLAND
+2025-11-02 07:37:20 [INFO] swan.Westport: ⚙️ Applying multi-station correction to full BARRA-C2 field
+2025-11-02 07:37:21 [INFO] swan.Westport: ✅ Multi-station correction applied to wind field
+2025-11-02 07:37:23 [INFO] swan.Westport: ✅ 8-row comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_single.png
+2025-11-02 07:37:24 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:40:44 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:40:44 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:41:16 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 07:41:17 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:46:45 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 07:46:45 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 07:47:17 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 07:47:17 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:04:16 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:04:16 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:04:48 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:04:49 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:04:49 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:08:00 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:08:00 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:08:32 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:08:33 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:08:34 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:08:48 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:08:48 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:09:19 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:09:20 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:09:21 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:14:18 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:14:18 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:14:49 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:14:50 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:14:50 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:22:13 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:22:13 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:22:44 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:22:44 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:22:45 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:27:15 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:27:15 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:27:46 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:27:46 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:27:47 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:34:28 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:34:28 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:56 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:34:58 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:34:59 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:35:00 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:35:38 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:35:38 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:06 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:36:09 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:36:09 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:36:10 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:37:39 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:37:39 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:07 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:38:09 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:38:10 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:38:11 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:40:25 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-11-12 00:00:00
+2025-11-02 08:40:25 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202111100000/Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:53 [WARNING] swan.Westport: ⚠️ wind correction extreme ratio appeared
+2025-11-02 08:40:55 [INFO] swan.Westport: ✅ Comparison BARRAC2 vs BoM wind saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/BARRAC2_vs_BoM_Wind_multi.png
+2025-11-02 08:40:56 [INFO] swan.Westport: ✅ Wind field speed & direction plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202111100000/WindField_correction_2021-11-12 00:00:00.png
+2025-11-02 08:40:57 [INFO] swan.Westport: ✅ Corrected SWAN wind file written: Barrac2_corrected_2021_09_29_0000_to_2021_11_12_0000.dat

@@ -1,0 +1,1542 @@
+2025-10-13 06:00:38 [INFO] swanmod.run_model: Preparing SWAN run folder
+2025-10-13 06:00:38 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 07:40:23 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000
+2025-10-13 07:40:23 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 07:52:58 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000/WP_202304300000_202306300000
+2025-10-13 07:55:17 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000/WP_202304300000_202306300000/WP_202304300000_202306300000
+2025-10-13 07:55:17 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 08:02:05 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases
+2025-10-13 08:02:05 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 08:04:16 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000
+2025-10-13 08:04:16 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 08:34:47 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000
+2025-10-13 08:34:47 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 08:37:27 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202304300000_202306300000
+2025-10-13 08:37:27 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 08:37:27 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202304300000_202306300000
+2025-10-13 08:37:27 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
+  Normal end of run wwm 
+
+2025-10-13 09:29:18 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-04-28 00:00:00 and 2023-07-02 00:00:00
+2025-10-13 09:29:18 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202304300000_202306300000/Barrac2_2023_04_28_to_2023_07_02.dat
+2025-10-13 09:31:33 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-04-28 00:00:00 and 2023-07-02 00:00:00
+2025-10-13 09:31:33 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202304300000_202306300000/Barrac2_2023_04_28_to_2023_07_02.dat
+2025-10-13 09:31:55 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_04_28_to_2023_07_02.dat
+2025-10-13 10:13:18 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:13:18 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_to_2023_05_07.dat
+2025-10-13 10:13:19 [WARNING] swanmod.prepare_wind: No wind data found for requested period.
+2025-10-13 10:34:52 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:34:52 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:35:29 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:35:29 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:39:14 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:39:14 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:42:39 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:42:39 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:42:40 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:42:40 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:42:40 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 10:42:40 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:42:40 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
+  Normal end of run wwm 
+
+2025-10-13 10:49:28 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:49:28 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:49:29 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:49:29 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:49:29 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 10:49:29 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:49:45 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
+  Normal end of run wwm 
+
+2025-10-13 10:51:41 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:51:41 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:51:42 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:51:42 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:51:42 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 10:51:42 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:51:58 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
+  Normal end of run wwm 
+
+2025-10-13 10:54:10 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:54:10 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:54:11 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:54:11 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:54:11 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 10:54:11 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202305050000_202305050200
+2025-10-13 10:54:27 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
+  Normal end of run wwm 
+
+2025-10-13 10:58:10 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:58:10 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:58:11 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:58:58 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 10:58:58 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 10:58:59 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 11:00:32 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-07 02:00:00
+2025-10-13 11:00:32 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305050200/Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 11:00:33 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_07_0200.dat
+2025-10-13 11:00:33 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305050200
+2025-10-13 11:00:33 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-13 11:00:33 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 48 in data/prepcases/WP_202305050000_202305050200
+2025-10-13 11:09:32 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
++SWAN is processing output request    1
++SWAN is processing output request    2
+ Number of threads during execution of parallel region = 48
+
++time 20230505.000500   , step      1; iteration    1
++time 20230505.000500   , step      1; iteration    2
++time 20230505.000500   , step      1; iteration    3
++time 20230505.000500   , step      1; iteration    4
++time 20230505.000500   , step      1; iteration    5
++time 20230505.000500   , step      1; iteration    6
++time 20230505.000500   , step      1; iteration    7
++time 20230505.000500   , step      1; iteration    8
++time 20230505.000500   , step      1; iteration    9
++time 20230505.000500   , step      1; iteration   10
++time 20230505.000500   , step      1; iteration   11
++time 20230505.000500   , step      1; iteration   12
++time 20230505.000500   , step      1; iteration   13
++time 20230505.000500   , step      1; iteration   14
++time 20230505.000500   , step      1; iteration   15
++time 20230505.000500   , step      1; iteration   16
++time 20230505.000500   , step      1; iteration   17
++time 20230505.000500   , step      1; iteration   18
++time 20230505.000500   , step      1; iteration   19
++time 20230505.000500   , step      1; iteration   20
++time 20230505.000500   , step      1; iteration   21
++time 20230505.000500   , step      1; iteration   22
++time 20230505.000500   , step      1; iteration   23
++time 20230505.000500   , step      1; iteration   24
++time 20230505.000500   , step      1; iteration   25
++time 20230505.000500   , step      1; iteration   26
++time 20230505.000500   , step      1; iteration   27
++time 20230505.000500   , step      1; iteration   28
++time 20230505.000500   , step      1; iteration   29
++time 20230505.000500   , step      1; iteration   30
++time 20230505.000500   , step      1; iteration   31
++time 20230505.000500   , step      1; iteration   32
++time 20230505.000500   , step      1; iteration   33
++time 20230505.000500   , step      1; iteration   34
++time 20230505.000500   , step      1; iteration   35
++time 20230505.000500   , step      1; iteration   36
++time 20230505.000500   , step      1; iteration   37
++time 20230505.000500   , step      1; iteration   38
++time 20230505.000500   , step      1; iteration   39
++time 20230505.000500   , step      1; iteration   40
++time 20230505.000500   , step      1; iteration   41
++time 20230505.000500   , step      1; iteration   42
++time 20230505.000500   , step      1; iteration   43
++time 20230505.000500   , step      1; iteration   44
++time 20230505.000500   , step      1; iteration   45
++time 20230505.000500   , step      1; iteration   46
++time 20230505.000500   , step      1; iteration   47
++time 20230505.000500   , step      1; iteration   48
++time 20230505.000500   , step      1; iteration   49
++time 20230505.000500   , step      1; iteration   50
++time 20230505.000500   , step      1; iteration   51
++time 20230505.000500   , step      1; iteration   52
++time 20230505.000500   , step      1; iteration   53
++time 20230505.001000   , step      2; iteration    1
++time 20230505.001000   , step      2; iteration    2
++time 20230505.001000   , step      2; iteration    3
++time 20230505.001000   , step      2; iteration    4
++time 20230505.001000   , step      2; iteration    5
++time 20230505.001000   , step      2; iteration    6
++time 20230505.001000   , step      2; iteration    7
++time 20230505.001000   , step      2; iteration    8
++time 20230505.001000   , step      2; iteration    9
++time 20230505.001000   , step      2; iteration   10
++time 20230505.001000   , step      2; iteration   11
++time 20230505.001000   , step      2; iteration   12
++time 20230505.001000   , step      2; iteration   13
++time 20230505.001000   , step      2; iteration   14
++time 20230505.001000   , step      2; iteration   15
++time 20230505.001000   , step      2; iteration   16
++time 20230505.001000   , step      2; iteration   17
++time 20230505.001000   , step      2; iteration   18
++time 20230505.001000   , step      2; iteration   19
++time 20230505.001000   , step      2; iteration   20
++time 20230505.001000   , step      2; iteration   21
++time 20230505.001000   , step      2; iteration   22
++time 20230505.001000   , step      2; iteration   23
++time 20230505.001000   , step      2; iteration   24
++time 20230505.001000   , step      2; iteration   25
++time 20230505.001000   , step      2; iteration   26
++time 20230505.001000   , step      2; iteration   27
++time 20230505.001000   , step      2; iteration   28
++time 20230505.001000   , step      2; iteration   29
++time 20230505.001000   , step      2; iteration   30
++time 20230505.001000   , step      2; iteration   31
++time 20230505.001000   , step      2; iteration   32
++time 20230505.001000   , step      2; iteration   33
++time 20230505.001000   , step      2; iteration   34
++time 20230505.001000   , step      2; iteration   35
++time 20230505.001000   , step      2; iteration   36
++time 20230505.001000   , step      2; iteration   37
++time 20230505.001000   , step      2; iteration   38
++time 20230505.001000   , step      2; iteration   39
++time 20230505.001000   , step      2; iteration   40
++time 20230505.001000   , step      2; iteration   41
++time 20230505.001500   , step      3; iteration    1
++time 20230505.001500   , step      3; iteration    2
++time 20230505.001500   , step      3; iteration    3
++time 20230505.001500   , step      3; iteration    4
++time 20230505.001500   , step      3; iteration    5
++time 20230505.001500   , step      3; iteration    6
++time 20230505.001500   , step      3; iteration    7
++time 20230505.001500   , step      3; iteration    8
++time 20230505.001500   , step      3; iteration    9
++time 20230505.001500   , step      3; iteration   10
++time 20230505.001500   , step      3; iteration   11
++time 20230505.001500   , step      3; iteration   12
++time 20230505.001500   , step      3; iteration   13
++time 20230505.001500   , step      3; iteration   14
++time 20230505.001500   , step      3; iteration   15
++time 20230505.001500   , step      3; iteration   16
++time 20230505.001500   , step      3; iteration   17
++time 20230505.002000   , step      4; iteration    1
++time 20230505.002000   , step      4; iteration    2
++time 20230505.002000   , step      4; iteration    3
++time 20230505.002000   , step      4; iteration    4
++time 20230505.002000   , step      4; iteration    5
++time 20230505.002000   , step      4; iteration    6
++time 20230505.002000   , step      4; iteration    7
++time 20230505.002000   , step      4; iteration    8
++time 20230505.002000   , step      4; iteration    9
++time 20230505.002000   , step      4; iteration   10
++time 20230505.002000   , step      4; iteration   11
++time 20230505.002000   , step      4; iteration   12
++time 20230505.002000   , step      4; iteration   13
++time 20230505.002000   , step      4; iteration   14
++time 20230505.002500   , step      5; iteration    1
++time 20230505.002500   , step      5; iteration    2
++time 20230505.002500   , step      5; iteration    3
++time 20230505.002500   , step      5; iteration    4
++time 20230505.002500   , step      5; iteration    5
++time 20230505.002500   , step      5; iteration    6
++time 20230505.002500   , step      5; iteration    7
++time 20230505.002500   , step      5; iteration    8
++time 20230505.002500   , step      5; iteration    9
++time 20230505.002500   , step      5; iteration   10
++time 20230505.002500   , step      5; iteration   11
++time 20230505.003000   , step      6; iteration    1
++time 20230505.003000   , step      6; iteration    2
++time 20230505.003000   , step      6; iteration    3
++time 20230505.003000   , step      6; iteration    4
++time 20230505.003000   , step      6; iteration    5
++time 20230505.003000   , step      6; iteration    6
++time 20230505.003000   , step      6; iteration    7
++time 20230505.003000   , step      6; iteration    8
++time 20230505.003000   , step      6; iteration    9
++time 20230505.003000   , step      6; iteration   10
++time 20230505.003500   , step      7; iteration    1
++time 20230505.003500   , step      7; iteration    2
++time 20230505.003500   , step      7; iteration    3
++time 20230505.003500   , step      7; iteration    4
++time 20230505.003500   , step      7; iteration    5
++time 20230505.003500   , step      7; iteration    6
++time 20230505.003500   , step      7; iteration    7
++time 20230505.003500   , step      7; iteration    8
++time 20230505.004000   , step      8; iteration    1
++time 20230505.004000   , step      8; iteration    2
++time 20230505.004000   , step      8; iteration    3
++time 20230505.004000   , step      8; iteration    4
++time 20230505.004000   , step      8; iteration    5
++time 20230505.004000   , step      8; iteration    6
++time 20230505.004500   , step      9; iteration    1
++time 20230505.004500   , step      9; iteration    2
++time 20230505.004500   , step      9; iteration    3
++time 20230505.004500   , step      9; iteration    4
++time 20230505.004500   , step      9; iteration    5
++time 20230505.005000   , step     10; iteration    1
++time 20230505.005000   , step     10; iteration    2
++time 20230505.005000   , step     10; iteration    3
++time 20230505.005000   , step     10; iteration    4
++time 20230505.005500   , step     11; iteration    1
++time 20230505.005500   , step     11; iteration    2
++time 20230505.005500   , step     11; iteration    3
++time 20230505.005500   , step     11; iteration    4
++time 20230505.010000   , step     12; iteration    1
++time 20230505.010000   , step     12; iteration    2
++time 20230505.010000   , step     12; iteration    3
++time 20230505.010000   , step     12; iteration    4
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20230505.010500   , step     13; iteration    1
++time 20230505.010500   , step     13; iteration    2
++time 20230505.010500   , step     13; iteration    3
++time 20230505.010500   , step     13; iteration    4
++time 20230505.011000   , step     14; iteration    1
++time 20230505.011000   , step     14; iteration    2
++time 20230505.011000   , step     14; iteration    3
++time 20230505.011000   , step     14; iteration    4
++time 20230505.011500   , step     15; iteration    1
++time 20230505.011500   , step     15; iteration    2
++time 20230505.011500   , step     15; iteration    3
++time 20230505.011500   , step     15; iteration    4
++time 20230505.012000   , step     16; iteration    1
++time 20230505.012000   , step     16; iteration    2
++time 20230505.012000   , step     16; iteration    3
++time 20230505.012000   , step     16; iteration    4
++time 20230505.012500   , step     17; iteration    1
++time 20230505.012500   , step     17; iteration    2
++time 20230505.012500   , step     17; iteration    3
++time 20230505.012500   , step     17; iteration    4
++time 20230505.013000   , step     18; iteration    1
++time 20230505.013000   , step     18; iteration    2
++time 20230505.013000   , step     18; iteration    3
++time 20230505.013000   , step     18; iteration    4
++time 20230505.013500   , step     19; iteration    1
++time 20230505.013500   , step     19; iteration    2
++time 20230505.013500   , step     19; iteration    3
++time 20230505.013500   , step     19; iteration    4
++time 20230505.014000   , step     20; iteration    1
++time 20230505.014000   , step     20; iteration    2
++time 20230505.014000   , step     20; iteration    3
++time 20230505.014000   , step     20; iteration    4
++time 20230505.014500   , step     21; iteration    1
++time 20230505.014500   , step     21; iteration    2
++time 20230505.014500   , step     21; iteration    3
++time 20230505.015000   , step     22; iteration    1
++time 20230505.015000   , step     22; iteration    2
++time 20230505.015000   , step     22; iteration    3
++time 20230505.015500   , step     23; iteration    1
++time 20230505.015500   , step     23; iteration    2
++time 20230505.015500   , step     23; iteration    3
++time 20230505.020000   , step     24; iteration    1
++time 20230505.020000   , step     24; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
+  Normal end of run wwm 
+
+2025-10-14 06:13:54 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-09 00:00:00
+2025-10-14 06:13:54 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305070000/Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 06:13:54 [WARNING] swanmod.prepare_wind: No wind files cover the requested period.
+2025-10-14 06:31:09 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-09 00:00:00
+2025-10-14 06:31:09 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305070000/Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 06:31:11 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 06:31:11 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_202305050000_202305070000
+2025-10-14 06:31:11 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-14 06:31:11 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 176 in data/prepcases/WP_202305050000_202305070000
+2025-10-14 07:33:13 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-09 00:00:00
+2025-10-14 07:33:13 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305070000/Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 07:34:33 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2023-05-03 00:00:00 and 2023-05-09 00:00:00
+2025-10-14 07:34:33 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_202305050000_202305070000/Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 07:34:34 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2023_05_03_0000_to_2023_05_09_0000.dat
+2025-10-14 07:34:34 [INFO] swanmod.prepare_boundary: Read 327 open boundary nodes from fort.14
+2025-10-14 07:37:11 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 07:37:11 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:37:13 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:37:13 [INFO] swanmod.prepare_boundary: Read 327 open boundary nodes from fort.14
+2025-10-14 07:38:55 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 07:38:55 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:38:56 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:38:56 [INFO] swanmod.prepare_boundary: Read 327 open boundary nodes from fort.14
+2025-10-14 07:52:42 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 07:52:42 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:52:43 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:52:43 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 07:58:15 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 07:58:15 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:58:16 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 07:58:16 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 08:15:51 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 08:15:51 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:15:52 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:16:24 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 08:16:24 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:16:25 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:16:25 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 08:16:25 [INFO] swanmod.prepare_boundary: ✅ Selected 30 evenly spaced boundary nodes
+2025-10-14 08:16:25 [INFO] swanmod.prepare_boundary: ✅ Found 5 NetCDF files covering requested period
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_19362_dist_0.00m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87031_dist_6814.58m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64398_dist_11224.17m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99431_dist_15633.73m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87938_dist_26521.93m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88519_dist_32640.97m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99281_dist_42769.55m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64971_dist_48008.63m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_61683_dist_54295.37m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87973_dist_66170.62m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29368_dist_70361.99m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88502_dist_74204.02m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64344_dist_84333.17m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63405_dist_90620.34m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88211_dist_95510.38m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63863_dist_107386.30m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87767_dist_113771.46m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87753_dist_119178.07m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64172_dist_124825.32m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64655_dist_130729.23m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_62947_dist_135606.23m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86879_dist_140226.48m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29098_dist_144846.66m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: 🟢 Saved node_12427_dist_147926.78m.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: ✅ Boundary list saved: data/prepcases/WP_201505050000_201505070000/boundary_list.txt
+2025-10-14 08:16:37 [INFO] swanmod.prepare_boundary: ✅ Saved coordinates: data/prepcases/WP_201505050000_201505070000/selected_node_coords.txt
+2025-10-14 08:16:37 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_201505050000_201505070000
+2025-10-14 08:16:37 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-14 08:16:37 [INFO] swanmod.run_model: Included 30 boundary files from boundary_list.txt
+2025-10-14 08:16:37 [INFO] swanmod.run_model: ✅ SWAN input file written → data/prepcases/WP_201505050000_201505070000/Westport.swn
+2025-10-14 08:16:37 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 176 in data/prepcases/WP_201505050000_201505070000
+2025-10-14 08:26:25 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-09 00:00:00
+2025-10-14 08:26:25 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505070000/Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:26:26 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_09_0000.dat
+2025-10-14 08:26:26 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 08:26:26 [INFO] swanmod.prepare_boundary: ✅ Selected 30 evenly spaced boundary nodes
+2025-10-14 08:26:26 [INFO] swanmod.prepare_boundary: ✅ Found 5 NetCDF files covering requested period
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_12629_dist_50.08m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_60454_dist_2805.98m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87032_dist_7215.51m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64399_dist_11625.01m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99433_dist_16034.68m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65409_dist_26955.09m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88521_dist_32990.21m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99446_dist_37879.86m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99281_dist_42769.55m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64971_dist_48008.63m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_61683_dist_54295.37m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_102104_dist_60931.52m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87973_dist_66170.62m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29368_dist_70361.99m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88502_dist_74204.02m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64346_dist_83634.65m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63405_dist_90620.34m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88211_dist_95510.38m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63821_dist_106687.76m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63925_dist_113338.36m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64172_dist_124825.32m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87874_dist_130472.55m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_62949_dist_135092.88m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29100_dist_144333.32m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: 🟢 Saved node_15410_dist_147872.63m.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: ✅ Boundary list saved: data/prepcases/WP_201505050000_201505070000/boundary_list.txt
+2025-10-14 08:26:40 [INFO] swanmod.prepare_boundary: ✅ Saved coordinates: data/prepcases/WP_201505050000_201505070000/selected_node_coords.txt
+2025-10-14 08:26:40 [INFO] swanmod.run_model: Removing existing folder: data/prepcases/WP_201505050000_201505070000/Westport_output
+2025-10-14 08:26:40 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_201505050000_201505070000
+2025-10-14 08:26:40 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-14 08:26:40 [INFO] swanmod.run_model: Included 30 boundary files from boundary_list.txt
+2025-10-14 08:26:40 [INFO] swanmod.run_model: ✅ SWAN input file written → data/prepcases/WP_201505050000_201505070000/Westport.swn
+2025-10-14 08:26:40 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 176 in data/prepcases/WP_201505050000_201505070000
+2025-10-14 08:38:15 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-07 02:00:00
+2025-10-14 08:38:15 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505050200/Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 08:38:16 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 08:38:16 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 08:38:17 [INFO] swanmod.prepare_boundary: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-14 08:38:17 [INFO] swanmod.prepare_boundary: ✅ Found 3 NetCDF files covering requested period
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: ✅ Boundary list saved: data/prepcases/WP_201505050000_201505050200/boundary_list.txt
+2025-10-14 08:38:21 [INFO] swanmod.prepare_boundary: ✅ Saved coordinates: data/prepcases/WP_201505050000_201505050200/selected_node_coords.txt
+2025-10-14 08:38:21 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_201505050000_201505050200
+2025-10-14 08:38:21 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-14 08:38:21 [INFO] swanmod.run_model: Included 50 boundary files from boundary_list.txt
+2025-10-14 08:38:21 [INFO] swanmod.run_model: ✅ SWAN input file written → data/prepcases/WP_201505050000_201505050200/Westport.swn
+2025-10-14 08:38:21 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 176 in data/prepcases/WP_201505050000_201505050200
+2025-10-14 10:42:03 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-07 02:00:00
+2025-10-14 10:42:03 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505050200/Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:42:04 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:42:04 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 10:42:05 [INFO] swanmod.prepare_boundary: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-14 10:42:05 [INFO] swanmod.prepare_boundary: ✅ Found 3 NetCDF files covering requested period
+2025-10-14 10:44:05 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-07 02:00:00
+2025-10-14 10:44:05 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505050200/Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:44:06 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:44:06 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 10:44:07 [INFO] swanmod.prepare_boundary: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-14 10:44:07 [INFO] swanmod.prepare_boundary: ✅ Found 3 NetCDF files covering requested period
+2025-10-14 10:45:07 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-07 02:00:00
+2025-10-14 10:45:07 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505050200/Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:45:08 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_07_0200.dat
+2025-10-14 10:45:08 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-14 10:45:08 [INFO] swanmod.prepare_boundary: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-14 10:45:08 [INFO] swanmod.prepare_boundary: ✅ Found 3 NetCDF files covering requested period
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: ✅ Boundary list saved: data/prepcases/WP_201505050000_201505050200/boundary_list.txt
+2025-10-14 10:45:15 [INFO] swanmod.prepare_boundary: ✅ Saved coordinates: data/prepcases/WP_201505050000_201505050200/selected_node_coords.txt
+2025-10-14 10:45:15 [INFO] swanmod.run_model: Removing existing folder: data/prepcases/WP_201505050000_201505050200/Westport_output
+2025-10-14 10:45:15 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_201505050000_201505050200
+2025-10-14 10:45:15 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-14 10:45:15 [INFO] swanmod.run_model: Included 50 boundary files from boundary_list.txt
+2025-10-14 10:45:15 [INFO] swanmod.run_model: ✅ SWAN input file written → data/prepcases/WP_201505050000_201505050200/Westport.swn
+2025-10-14 10:45:15 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 176 in data/prepcases/WP_201505050000_201505050200
+2025-10-14 10:45:35 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
++SWAN is processing output request    1
++SWAN is processing output request    2
+ Number of threads during execution of parallel region = **
+
++time 20150505.000500   , step      1; iteration    1
+
+2025-10-15 01:57:18 [INFO] swanmod.prepare_wind: 🌀 Preparing wind data between 2015-05-03 00:00:00 and 2015-05-08 00:00:00
+2025-10-15 01:57:18 [INFO] swanmod.prepare_wind: 💾 Saving SWAN wind file: data/prepcases/WP_201505050000_201505060000/Barrac2_2015_05_03_0000_to_2015_05_08_0000.dat
+2025-10-15 01:57:20 [INFO] swanmod.prepare_wind: ✅ SWAN wind file written: Barrac2_2015_05_03_0000_to_2015_05_08_0000.dat
+2025-10-15 01:57:20 [INFO] swanmod.prepare_boundary: ✅ Read 327 open boundary nodes from fort.14
+2025-10-15 01:57:21 [INFO] swanmod.prepare_boundary: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-15 01:57:21 [INFO] swanmod.prepare_boundary: ✅ Found 4 NetCDF files covering requested period
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: ✅ Boundary list saved: data/prepcases/WP_201505050000_201505060000/boundary_list.txt
+2025-10-15 01:57:30 [INFO] swanmod.prepare_boundary: ✅ Saved coordinates: data/prepcases/WP_201505050000_201505060000/selected_node_coords.txt
+2025-10-15 01:57:30 [INFO] swanmod.run_model: Preparing SWAN run folder: data/prepcases/WP_201505050000_201505060000
+2025-10-15 01:57:30 [INFO] swanmod.run_model: Preparing SWAN .swn file
+2025-10-15 01:57:30 [INFO] swanmod.run_model: Included 50 boundary files from boundary_list.txt
+2025-10-15 01:57:30 [INFO] swanmod.run_model: ✅ SWAN input file written → data/prepcases/WP_201505050000_201505060000/Westport.swn
+2025-10-15 01:57:30 [INFO] swanmod.run_model: 🚀 Running SWAN locally: time ./swanrun -input Westport -omp 88 in data/prepcases/WP_201505050000_201505060000
+2025-10-15 02:25:33 [INFO] swanmod.run_model: swan.exe is ./swan.exe
+
+ SWAN is preparing computation
+
++SWAN is processing output request    1
++SWAN is processing output request    2
+ Number of threads during execution of parallel region = 88
+
++time 20150505.000500   , step      1; iteration    1
++time 20150505.000500   , step      1; iteration    2
++time 20150505.000500   , step      1; iteration    3
++time 20150505.000500   , step      1; iteration    4
++time 20150505.000500   , step      1; iteration    5
++time 20150505.000500   , step      1; iteration    6
++time 20150505.000500   , step      1; iteration    7
++time 20150505.000500   , step      1; iteration    8
++time 20150505.000500   , step      1; iteration    9
++time 20150505.000500   , step      1; iteration   10
++time 20150505.000500   , step      1; iteration   11
++time 20150505.000500   , step      1; iteration   12
++time 20150505.000500   , step      1; iteration   13
++time 20150505.000500   , step      1; iteration   14
++time 20150505.000500   , step      1; iteration   15
++time 20150505.000500   , step      1; iteration   16
++time 20150505.000500   , step      1; iteration   17
++time 20150505.000500   , step      1; iteration   18
++time 20150505.000500   , step      1; iteration   19
++time 20150505.000500   , step      1; iteration   20
++time 20150505.000500   , step      1; iteration   21
++time 20150505.000500   , step      1; iteration   22
++time 20150505.000500   , step      1; iteration   23
++time 20150505.000500   , step      1; iteration   24
++time 20150505.000500   , step      1; iteration   25
++time 20150505.000500   , step      1; iteration   26
++time 20150505.000500   , step      1; iteration   27
++time 20150505.000500   , step      1; iteration   28
++time 20150505.000500   , step      1; iteration   29
++time 20150505.000500   , step      1; iteration   30
++time 20150505.000500   , step      1; iteration   31
++time 20150505.000500   , step      1; iteration   32
++time 20150505.000500   , step      1; iteration   33
++time 20150505.000500   , step      1; iteration   34
++time 20150505.000500   , step      1; iteration   35
++time 20150505.000500   , step      1; iteration   36
++time 20150505.000500   , step      1; iteration   37
++time 20150505.000500   , step      1; iteration   38
++time 20150505.000500   , step      1; iteration   39
++time 20150505.000500   , step      1; iteration   40
++time 20150505.000500   , step      1; iteration   41
++time 20150505.000500   , step      1; iteration   42
++time 20150505.000500   , step      1; iteration   43
++time 20150505.000500   , step      1; iteration   44
++time 20150505.000500   , step      1; iteration   45
++time 20150505.000500   , step      1; iteration   46
++time 20150505.000500   , step      1; iteration   47
++time 20150505.000500   , step      1; iteration   48
++time 20150505.000500   , step      1; iteration   49
++time 20150505.000500   , step      1; iteration   50
++time 20150505.000500   , step      1; iteration   51
++time 20150505.000500   , step      1; iteration   52
++time 20150505.000500   , step      1; iteration   53
++time 20150505.000500   , step      1; iteration   54
++time 20150505.000500   , step      1; iteration   55
++time 20150505.000500   , step      1; iteration   56
++time 20150505.000500   , step      1; iteration   57
++time 20150505.000500   , step      1; iteration   58
++time 20150505.000500   , step      1; iteration   59
++time 20150505.000500   , step      1; iteration   60
++time 20150505.000500   , step      1; iteration   61
++time 20150505.000500   , step      1; iteration   62
++time 20150505.000500   , step      1; iteration   63
++time 20150505.000500   , step      1; iteration   64
++time 20150505.000500   , step      1; iteration   65
++time 20150505.000500   , step      1; iteration   66
++time 20150505.000500   , step      1; iteration   67
++time 20150505.000500   , step      1; iteration   68
++time 20150505.000500   , step      1; iteration   69
++time 20150505.000500   , step      1; iteration   70
++time 20150505.000500   , step      1; iteration   71
++time 20150505.000500   , step      1; iteration   72
++time 20150505.000500   , step      1; iteration   73
++time 20150505.000500   , step      1; iteration   74
++time 20150505.000500   , step      1; iteration   75
++time 20150505.000500   , step      1; iteration   76
++time 20150505.000500   , step      1; iteration   77
++time 20150505.000500   , step      1; iteration   78
++time 20150505.000500   , step      1; iteration   79
++time 20150505.000500   , step      1; iteration   80
++time 20150505.000500   , step      1; iteration   81
++time 20150505.000500   , step      1; iteration   82
++time 20150505.000500   , step      1; iteration   83
++time 20150505.000500   , step      1; iteration   84
++time 20150505.000500   , step      1; iteration   85
++time 20150505.000500   , step      1; iteration   86
++time 20150505.000500   , step      1; iteration   87
++time 20150505.000500   , step      1; iteration   88
++time 20150505.000500   , step      1; iteration   89
++time 20150505.000500   , step      1; iteration   90
++time 20150505.000500   , step      1; iteration   91
++time 20150505.000500   , step      1; iteration   92
++time 20150505.000500   , step      1; iteration   93
++time 20150505.000500   , step      1; iteration   94
++time 20150505.000500   , step      1; iteration   95
++time 20150505.000500   , step      1; iteration   96
++time 20150505.000500   , step      1; iteration   97
++time 20150505.000500   , step      1; iteration   98
++time 20150505.000500   , step      1; iteration   99
++time 20150505.000500   , step      1; iteration  100
++time 20150505.001000   , step      2; iteration    1
++time 20150505.001000   , step      2; iteration    2
++time 20150505.001000   , step      2; iteration    3
++time 20150505.001000   , step      2; iteration    4
++time 20150505.001000   , step      2; iteration    5
++time 20150505.001000   , step      2; iteration    6
++time 20150505.001000   , step      2; iteration    7
++time 20150505.001000   , step      2; iteration    8
++time 20150505.001000   , step      2; iteration    9
++time 20150505.001000   , step      2; iteration   10
++time 20150505.001000   , step      2; iteration   11
++time 20150505.001000   , step      2; iteration   12
++time 20150505.001000   , step      2; iteration   13
++time 20150505.001000   , step      2; iteration   14
++time 20150505.001000   , step      2; iteration   15
++time 20150505.001000   , step      2; iteration   16
++time 20150505.001000   , step      2; iteration   17
++time 20150505.001000   , step      2; iteration   18
++time 20150505.001000   , step      2; iteration   19
++time 20150505.001000   , step      2; iteration   20
++time 20150505.001000   , step      2; iteration   21
++time 20150505.001000   , step      2; iteration   22
++time 20150505.001000   , step      2; iteration   23
++time 20150505.001000   , step      2; iteration   24
++time 20150505.001000   , step      2; iteration   25
++time 20150505.001000   , step      2; iteration   26
++time 20150505.001000   , step      2; iteration   27
++time 20150505.001000   , step      2; iteration   28
++time 20150505.001000   , step      2; iteration   29
++time 20150505.001000   , step      2; iteration   30
++time 20150505.001000   , step      2; iteration   31
++time 20150505.001000   , step      2; iteration   32
++time 20150505.001000   , step      2; iteration   33
++time 20150505.001000   , step      2; iteration   34
++time 20150505.001000   , step      2; iteration   35
++time 20150505.001000   , step      2; iteration   36
++time 20150505.001000   , step      2; iteration   37
++time 20150505.001500   , step      3; iteration    1
++time 20150505.001500   , step      3; iteration    2
++time 20150505.001500   , step      3; iteration    3
++time 20150505.001500   , step      3; iteration    4
++time 20150505.001500   , step      3; iteration    5
++time 20150505.001500   , step      3; iteration    6
++time 20150505.001500   , step      3; iteration    7
++time 20150505.001500   , step      3; iteration    8
++time 20150505.001500   , step      3; iteration    9
++time 20150505.001500   , step      3; iteration   10
++time 20150505.001500   , step      3; iteration   11
++time 20150505.001500   , step      3; iteration   12
++time 20150505.001500   , step      3; iteration   13
++time 20150505.001500   , step      3; iteration   14
++time 20150505.001500   , step      3; iteration   15
++time 20150505.001500   , step      3; iteration   16
++time 20150505.001500   , step      3; iteration   17
++time 20150505.001500   , step      3; iteration   18
++time 20150505.001500   , step      3; iteration   19
++time 20150505.001500   , step      3; iteration   20
++time 20150505.001500   , step      3; iteration   21
++time 20150505.001500   , step      3; iteration   22
++time 20150505.001500   , step      3; iteration   23
++time 20150505.001500   , step      3; iteration   24
++time 20150505.001500   , step      3; iteration   25
++time 20150505.002000   , step      4; iteration    1
++time 20150505.002000   , step      4; iteration    2
++time 20150505.002000   , step      4; iteration    3
++time 20150505.002000   , step      4; iteration    4
++time 20150505.002000   , step      4; iteration    5
++time 20150505.002000   , step      4; iteration    6
++time 20150505.002000   , step      4; iteration    7
++time 20150505.002000   , step      4; iteration    8
++time 20150505.002000   , step      4; iteration    9
++time 20150505.002000   , step      4; iteration   10
++time 20150505.002000   , step      4; iteration   11
++time 20150505.002000   , step      4; iteration   12
++time 20150505.002000   , step      4; iteration   13
++time 20150505.002000   , step      4; iteration   14
++time 20150505.002000   , step      4; iteration   15
++time 20150505.002000   , step      4; iteration   16
++time 20150505.002000   , step      4; iteration   17
++time 20150505.002000   , step      4; iteration   18
++time 20150505.002000   , step      4; iteration   19
++time 20150505.002000   , step      4; iteration   20
++time 20150505.002000   , step      4; iteration   21
++time 20150505.002000   , step      4; iteration   22
++time 20150505.002000   , step      4; iteration   23
++time 20150505.002000   , step      4; iteration   24
++time 20150505.002500   , step      5; iteration    1
++time 20150505.002500   , step      5; iteration    2
++time 20150505.002500   , step      5; iteration    3
++time 20150505.002500   , step      5; iteration    4
++time 20150505.002500   , step      5; iteration    5
++time 20150505.002500   , step      5; iteration    6
++time 20150505.002500   , step      5; iteration    7
++time 20150505.002500   , step      5; iteration    8
++time 20150505.002500   , step      5; iteration    9
++time 20150505.002500   , step      5; iteration   10
++time 20150505.002500   , step      5; iteration   11
++time 20150505.002500   , step      5; iteration   12
++time 20150505.002500   , step      5; iteration   13
++time 20150505.002500   , step      5; iteration   14
++time 20150505.002500   , step      5; iteration   15
++time 20150505.002500   , step      5; iteration   16
++time 20150505.002500   , step      5; iteration   17
++time 20150505.002500   , step      5; iteration   18
++time 20150505.003000   , step      6; iteration    1
++time 20150505.003000   , step      6; iteration    2
++time 20150505.003000   , step      6; iteration    3
++time 20150505.003000   , step      6; iteration    4
++time 20150505.003000   , step      6; iteration    5
++time 20150505.003000   , step      6; iteration    6
++time 20150505.003000   , step      6; iteration    7
++time 20150505.003000   , step      6; iteration    8
++time 20150505.003000   , step      6; iteration    9
++time 20150505.003000   , step      6; iteration   10
++time 20150505.003000   , step      6; iteration   11
++time 20150505.003000   , step      6; iteration   12
++time 20150505.003000   , step      6; iteration   13
++time 20150505.003500   , step      7; iteration    1
++time 20150505.003500   , step      7; iteration    2
++time 20150505.003500   , step      7; iteration    3
++time 20150505.003500   , step      7; iteration    4
++time 20150505.003500   , step      7; iteration    5
++time 20150505.003500   , step      7; iteration    6
++time 20150505.003500   , step      7; iteration    7
++time 20150505.003500   , step      7; iteration    8
++time 20150505.003500   , step      7; iteration    9
++time 20150505.003500   , step      7; iteration   10
++time 20150505.004000   , step      8; iteration    1
++time 20150505.004000   , step      8; iteration    2
++time 20150505.004000   , step      8; iteration    3
++time 20150505.004000   , step      8; iteration    4
++time 20150505.004000   , step      8; iteration    5
++time 20150505.004000   , step      8; iteration    6
++time 20150505.004500   , step      9; iteration    1
++time 20150505.004500   , step      9; iteration    2
++time 20150505.004500   , step      9; iteration    3
++time 20150505.004500   , step      9; iteration    4
++time 20150505.005000   , step     10; iteration    1
++time 20150505.005000   , step     10; iteration    2
++time 20150505.005000   , step     10; iteration    3
++time 20150505.005000   , step     10; iteration    4
++time 20150505.005500   , step     11; iteration    1
++time 20150505.005500   , step     11; iteration    2
++time 20150505.005500   , step     11; iteration    3
++time 20150505.005500   , step     11; iteration    4
++time 20150505.010000   , step     12; iteration    1
++time 20150505.010000   , step     12; iteration    2
++time 20150505.010000   , step     12; iteration    3
++time 20150505.010000   , step     12; iteration    4
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.010500   , step     13; iteration    1
++time 20150505.010500   , step     13; iteration    2
++time 20150505.010500   , step     13; iteration    3
++time 20150505.010500   , step     13; iteration    4
++time 20150505.011000   , step     14; iteration    1
++time 20150505.011000   , step     14; iteration    2
++time 20150505.011000   , step     14; iteration    3
++time 20150505.011000   , step     14; iteration    4
++time 20150505.011500   , step     15; iteration    1
++time 20150505.011500   , step     15; iteration    2
++time 20150505.011500   , step     15; iteration    3
++time 20150505.011500   , step     15; iteration    4
++time 20150505.012000   , step     16; iteration    1
++time 20150505.012000   , step     16; iteration    2
++time 20150505.012000   , step     16; iteration    3
++time 20150505.012000   , step     16; iteration    4
++time 20150505.012500   , step     17; iteration    1
++time 20150505.012500   , step     17; iteration    2
++time 20150505.012500   , step     17; iteration    3
++time 20150505.012500   , step     17; iteration    4
++time 20150505.013000   , step     18; iteration    1
++time 20150505.013000   , step     18; iteration    2
++time 20150505.013000   , step     18; iteration    3
++time 20150505.013000   , step     18; iteration    4
++time 20150505.013500   , step     19; iteration    1
++time 20150505.013500   , step     19; iteration    2
++time 20150505.013500   , step     19; iteration    3
++time 20150505.013500   , step     19; iteration    4
++time 20150505.014000   , step     20; iteration    1
++time 20150505.014000   , step     20; iteration    2
++time 20150505.014000   , step     20; iteration    3
++time 20150505.014000   , step     20; iteration    4
++time 20150505.014500   , step     21; iteration    1
++time 20150505.014500   , step     21; iteration    2
++time 20150505.014500   , step     21; iteration    3
++time 20150505.014500   , step     21; iteration    4
++time 20150505.015000   , step     22; iteration    1
++time 20150505.015000   , step     22; iteration    2
++time 20150505.015000   , step     22; iteration    3
++time 20150505.015500   , step     23; iteration    1
++time 20150505.015500   , step     23; iteration    2
++time 20150505.015500   , step     23; iteration    3
++time 20150505.020000   , step     24; iteration    1
++time 20150505.020000   , step     24; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.020500   , step     25; iteration    1
++time 20150505.020500   , step     25; iteration    2
++time 20150505.021000   , step     26; iteration    1
++time 20150505.021000   , step     26; iteration    2
++time 20150505.021500   , step     27; iteration    1
++time 20150505.021500   , step     27; iteration    2
++time 20150505.022000   , step     28; iteration    1
++time 20150505.022000   , step     28; iteration    2
++time 20150505.022500   , step     29; iteration    1
++time 20150505.022500   , step     29; iteration    2
++time 20150505.023000   , step     30; iteration    1
++time 20150505.023000   , step     30; iteration    2
++time 20150505.023500   , step     31; iteration    1
++time 20150505.023500   , step     31; iteration    2
++time 20150505.024000   , step     32; iteration    1
++time 20150505.024000   , step     32; iteration    2
++time 20150505.024500   , step     33; iteration    1
++time 20150505.024500   , step     33; iteration    2
++time 20150505.025000   , step     34; iteration    1
++time 20150505.025000   , step     34; iteration    2
++time 20150505.025500   , step     35; iteration    1
++time 20150505.025500   , step     35; iteration    2
++time 20150505.030000   , step     36; iteration    1
++time 20150505.030000   , step     36; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.030500   , step     37; iteration    1
++time 20150505.030500   , step     37; iteration    2
++time 20150505.031000   , step     38; iteration    1
++time 20150505.031000   , step     38; iteration    2
++time 20150505.031500   , step     39; iteration    1
++time 20150505.031500   , step     39; iteration    2
++time 20150505.032000   , step     40; iteration    1
++time 20150505.032000   , step     40; iteration    2
++time 20150505.032500   , step     41; iteration    1
++time 20150505.032500   , step     41; iteration    2
++time 20150505.033000   , step     42; iteration    1
++time 20150505.033000   , step     42; iteration    2
++time 20150505.033500   , step     43; iteration    1
++time 20150505.033500   , step     43; iteration    2
++time 20150505.034000   , step     44; iteration    1
++time 20150505.034000   , step     44; iteration    2
++time 20150505.034500   , step     45; iteration    1
++time 20150505.034500   , step     45; iteration    2
++time 20150505.035000   , step     46; iteration    1
++time 20150505.035000   , step     46; iteration    2
++time 20150505.035500   , step     47; iteration    1
++time 20150505.035500   , step     47; iteration    2
++time 20150505.040000   , step     48; iteration    1
++time 20150505.040000   , step     48; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.040500   , step     49; iteration    1
++time 20150505.040500   , step     49; iteration    2
++time 20150505.041000   , step     50; iteration    1
++time 20150505.041000   , step     50; iteration    2
++time 20150505.041500   , step     51; iteration    1
++time 20150505.041500   , step     51; iteration    2
++time 20150505.042000   , step     52; iteration    1
++time 20150505.042000   , step     52; iteration    2
++time 20150505.042500   , step     53; iteration    1
++time 20150505.042500   , step     53; iteration    2
++time 20150505.043000   , step     54; iteration    1
++time 20150505.043000   , step     54; iteration    2
++time 20150505.043500   , step     55; iteration    1
++time 20150505.043500   , step     55; iteration    2
++time 20150505.044000   , step     56; iteration    1
++time 20150505.044000   , step     56; iteration    2
++time 20150505.044500   , step     57; iteration    1
++time 20150505.044500   , step     57; iteration    2
++time 20150505.045000   , step     58; iteration    1
++time 20150505.045000   , step     58; iteration    2
++time 20150505.045500   , step     59; iteration    1
++time 20150505.045500   , step     59; iteration    2
++time 20150505.050000   , step     60; iteration    1
++time 20150505.050000   , step     60; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.050500   , step     61; iteration    1
++time 20150505.050500   , step     61; iteration    2
++time 20150505.051000   , step     62; iteration    1
++time 20150505.051000   , step     62; iteration    2
++time 20150505.051500   , step     63; iteration    1
++time 20150505.051500   , step     63; iteration    2
++time 20150505.052000   , step     64; iteration    1
++time 20150505.052000   , step     64; iteration    2
++time 20150505.052500   , step     65; iteration    1
++time 20150505.052500   , step     65; iteration    2
++time 20150505.053000   , step     66; iteration    1
++time 20150505.053000   , step     66; iteration    2
++time 20150505.053500   , step     67; iteration    1
++time 20150505.053500   , step     67; iteration    2
++time 20150505.054000   , step     68; iteration    1
++time 20150505.054000   , step     68; iteration    2
++time 20150505.054500   , step     69; iteration    1
++time 20150505.054500   , step     69; iteration    2
++time 20150505.055000   , step     70; iteration    1
++time 20150505.055000   , step     70; iteration    2
++time 20150505.055500   , step     71; iteration    1
++time 20150505.055500   , step     71; iteration    2
++time 20150505.060000   , step     72; iteration    1
++time 20150505.060000   , step     72; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.060500   , step     73; iteration    1
++time 20150505.060500   , step     73; iteration    2
++time 20150505.061000   , step     74; iteration    1
++time 20150505.061000   , step     74; iteration    2
++time 20150505.061500   , step     75; iteration    1
++time 20150505.061500   , step     75; iteration    2
++time 20150505.062000   , step     76; iteration    1
++time 20150505.062000   , step     76; iteration    2
++time 20150505.062500   , step     77; iteration    1
++time 20150505.062500   , step     77; iteration    2
++time 20150505.063000   , step     78; iteration    1
++time 20150505.063000   , step     78; iteration    2
++time 20150505.063500   , step     79; iteration    1
++time 20150505.063500   , step     79; iteration    2
++time 20150505.064000   , step     80; iteration    1
++time 20150505.064000   , step     80; iteration    2
++time 20150505.064500   , step     81; iteration    1
++time 20150505.064500   , step     81; iteration    2
++time 20150505.065000   , step     82; iteration    1
++time 20150505.065000   , step     82; iteration    2
++time 20150505.065500   , step     83; iteration    1
++time 20150505.065500   , step     83; iteration    2
++time 20150505.070000   , step     84; iteration    1
++time 20150505.070000   , step     84; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.070500   , step     85; iteration    1
++time 20150505.070500   , step     85; iteration    2
++time 20150505.071000   , step     86; iteration    1
++time 20150505.071000   , step     86; iteration    2
++time 20150505.071500   , step     87; iteration    1
++time 20150505.071500   , step     87; iteration    2
++time 20150505.072000   , step     88; iteration    1
++time 20150505.072000   , step     88; iteration    2
++time 20150505.072500   , step     89; iteration    1
++time 20150505.072500   , step     89; iteration    2
++time 20150505.073000   , step     90; iteration    1
++time 20150505.073000   , step     90; iteration    2
++time 20150505.073500   , step     91; iteration    1
++time 20150505.073500   , step     91; iteration    2
++time 20150505.074000   , step     92; iteration    1
++time 20150505.074000   , step     92; iteration    2
++time 20150505.074500   , step     93; iteration    1
++time 20150505.074500   , step     93; iteration    2
++time 20150505.075000   , step     94; iteration    1
++time 20150505.075000   , step     94; iteration    2
++time 20150505.075500   , step     95; iteration    1
++time 20150505.075500   , step     95; iteration    2
++time 20150505.080000   , step     96; iteration    1
++time 20150505.080000   , step     96; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.080500   , step     97; iteration    1
++time 20150505.080500   , step     97; iteration    2
++time 20150505.081000   , step     98; iteration    1
++time 20150505.081000   , step     98; iteration    2
++time 20150505.081500   , step     99; iteration    1
++time 20150505.081500   , step     99; iteration    2
++time 20150505.082000   , step    100; iteration    1
++time 20150505.082000   , step    100; iteration    2
++time 20150505.082500   , step    101; iteration    1
++time 20150505.082500   , step    101; iteration    2
++time 20150505.083000   , step    102; iteration    1
++time 20150505.083000   , step    102; iteration    2
++time 20150505.083500   , step    103; iteration    1
++time 20150505.083500   , step    103; iteration    2
++time 20150505.084000   , step    104; iteration    1
++time 20150505.084000   , step    104; iteration    2
++time 20150505.084500   , step    105; iteration    1
++time 20150505.084500   , step    105; iteration    2
++time 20150505.085000   , step    106; iteration    1
++time 20150505.085000   , step    106; iteration    2
++time 20150505.085500   , step    107; iteration    1
++time 20150505.085500   , step    107; iteration    2
++time 20150505.090000   , step    108; iteration    1
++time 20150505.090000   , step    108; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.090500   , step    109; iteration    1
++time 20150505.090500   , step    109; iteration    2
++time 20150505.091000   , step    110; iteration    1
++time 20150505.091000   , step    110; iteration    2
++time 20150505.091500   , step    111; iteration    1
++time 20150505.091500   , step    111; iteration    2
++time 20150505.092000   , step    112; iteration    1
++time 20150505.092000   , step    112; iteration    2
++time 20150505.092500   , step    113; iteration    1
++time 20150505.092500   , step    113; iteration    2
++time 20150505.093000   , step    114; iteration    1
++time 20150505.093000   , step    114; iteration    2
++time 20150505.093500   , step    115; iteration    1
++time 20150505.093500   , step    115; iteration    2
++time 20150505.094000   , step    116; iteration    1
++time 20150505.094000   , step    116; iteration    2
++time 20150505.094500   , step    117; iteration    1
++time 20150505.094500   , step    117; iteration    2
++time 20150505.095000   , step    118; iteration    1
++time 20150505.095000   , step    118; iteration    2
++time 20150505.095500   , step    119; iteration    1
++time 20150505.095500   , step    119; iteration    2
++time 20150505.100000   , step    120; iteration    1
++time 20150505.100000   , step    120; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.100500   , step    121; iteration    1
++time 20150505.100500   , step    121; iteration    2
++time 20150505.101000   , step    122; iteration    1
++time 20150505.101000   , step    122; iteration    2
++time 20150505.101500   , step    123; iteration    1
++time 20150505.101500   , step    123; iteration    2
++time 20150505.102000   , step    124; iteration    1
++time 20150505.102000   , step    124; iteration    2
++time 20150505.102500   , step    125; iteration    1
++time 20150505.102500   , step    125; iteration    2
++time 20150505.103000   , step    126; iteration    1
++time 20150505.103000   , step    126; iteration    2
++time 20150505.103500   , step    127; iteration    1
++time 20150505.103500   , step    127; iteration    2
++time 20150505.104000   , step    128; iteration    1
++time 20150505.104000   , step    128; iteration    2
++time 20150505.104500   , step    129; iteration    1
++time 20150505.104500   , step    129; iteration    2
++time 20150505.105000   , step    130; iteration    1
++time 20150505.105000   , step    130; iteration    2
++time 20150505.105500   , step    131; iteration    1
++time 20150505.105500   , step    131; iteration    2
++time 20150505.110000   , step    132; iteration    1
++time 20150505.110000   , step    132; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.110500   , step    133; iteration    1
++time 20150505.110500   , step    133; iteration    2
++time 20150505.111000   , step    134; iteration    1
++time 20150505.111000   , step    134; iteration    2
++time 20150505.111500   , step    135; iteration    1
++time 20150505.111500   , step    135; iteration    2
++time 20150505.112000   , step    136; iteration    1
++time 20150505.112000   , step    136; iteration    2
++time 20150505.112500   , step    137; iteration    1
++time 20150505.112500   , step    137; iteration    2
++time 20150505.113000   , step    138; iteration    1
++time 20150505.113000   , step    138; iteration    2
++time 20150505.113500   , step    139; iteration    1
++time 20150505.113500   , step    139; iteration    2
++time 20150505.114000   , step    140; iteration    1
++time 20150505.114000   , step    140; iteration    2
++time 20150505.114500   , step    141; iteration    1
++time 20150505.114500   , step    141; iteration    2
++time 20150505.115000   , step    142; iteration    1
++time 20150505.115000   , step    142; iteration    2
++time 20150505.115500   , step    143; iteration    1
++time 20150505.115500   , step    143; iteration    2
++time 20150505.120000   , step    144; iteration    1
++time 20150505.120000   , step    144; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.120500   , step    145; iteration    1
++time 20150505.120500   , step    145; iteration    2
++time 20150505.121000   , step    146; iteration    1
++time 20150505.121000   , step    146; iteration    2
++time 20150505.121500   , step    147; iteration    1
++time 20150505.121500   , step    147; iteration    2
++time 20150505.122000   , step    148; iteration    1
++time 20150505.122000   , step    148; iteration    2
++time 20150505.122500   , step    149; iteration    1
++time 20150505.122500   , step    149; iteration    2
++time 20150505.123000   , step    150; iteration    1
++time 20150505.123000   , step    150; iteration    2
++time 20150505.123500   , step    151; iteration    1
++time 20150505.123500   , step    151; iteration    2
++time 20150505.124000   , step    152; iteration    1
++time 20150505.124000   , step    152; iteration    2
++time 20150505.124500   , step    153; iteration    1
++time 20150505.124500   , step    153; iteration    2
++time 20150505.125000   , step    154; iteration    1
++time 20150505.125000   , step    154; iteration    2
++time 20150505.125500   , step    155; iteration    1
++time 20150505.125500   , step    155; iteration    2
++time 20150505.130000   , step    156; iteration    1
++time 20150505.130000   , step    156; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.130500   , step    157; iteration    1
++time 20150505.130500   , step    157; iteration    2
++time 20150505.131000   , step    158; iteration    1
++time 20150505.131000   , step    158; iteration    2
++time 20150505.131500   , step    159; iteration    1
++time 20150505.131500   , step    159; iteration    2
++time 20150505.132000   , step    160; iteration    1
++time 20150505.132000   , step    160; iteration    2
++time 20150505.132500   , step    161; iteration    1
++time 20150505.132500   , step    161; iteration    2
++time 20150505.133000   , step    162; iteration    1
++time 20150505.133000   , step    162; iteration    2
++time 20150505.133500   , step    163; iteration    1
++time 20150505.133500   , step    163; iteration    2
++time 20150505.134000   , step    164; iteration    1
++time 20150505.134000   , step    164; iteration    2
++time 20150505.134500   , step    165; iteration    1
++time 20150505.134500   , step    165; iteration    2
++time 20150505.135000   , step    166; iteration    1
++time 20150505.135000   , step    166; iteration    2
++time 20150505.135500   , step    167; iteration    1
++time 20150505.135500   , step    167; iteration    2
++time 20150505.140000   , step    168; iteration    1
++time 20150505.140000   , step    168; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.140500   , step    169; iteration    1
++time 20150505.140500   , step    169; iteration    2
++time 20150505.141000   , step    170; iteration    1
++time 20150505.141000   , step    170; iteration    2
++time 20150505.141500   , step    171; iteration    1
++time 20150505.141500   , step    171; iteration    2
++time 20150505.142000   , step    172; iteration    1
++time 20150505.142000   , step    172; iteration    2
++time 20150505.142500   , step    173; iteration    1
++time 20150505.142500   , step    173; iteration    2
++time 20150505.143000   , step    174; iteration    1
++time 20150505.143000   , step    174; iteration    2
++time 20150505.143500   , step    175; iteration    1
++time 20150505.143500   , step    175; iteration    2
++time 20150505.144000   , step    176; iteration    1
++time 20150505.144000   , step    176; iteration    2
++time 20150505.144500   , step    177; iteration    1
++time 20150505.144500   , step    177; iteration    2
++time 20150505.145000   , step    178; iteration    1
++time 20150505.145000   , step    178; iteration    2
++time 20150505.145500   , step    179; iteration    1
++time 20150505.145500   , step    179; iteration    2
++time 20150505.150000   , step    180; iteration    1
++time 20150505.150000   , step    180; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.150500   , step    181; iteration    1
++time 20150505.150500   , step    181; iteration    2
++time 20150505.151000   , step    182; iteration    1
++time 20150505.151000   , step    182; iteration    2
++time 20150505.151500   , step    183; iteration    1
++time 20150505.151500   , step    183; iteration    2
++time 20150505.152000   , step    184; iteration    1
++time 20150505.152000   , step    184; iteration    2
++time 20150505.152500   , step    185; iteration    1
++time 20150505.152500   , step    185; iteration    2
++time 20150505.153000   , step    186; iteration    1
++time 20150505.153000   , step    186; iteration    2
++time 20150505.153500   , step    187; iteration    1
++time 20150505.153500   , step    187; iteration    2
++time 20150505.154000   , step    188; iteration    1
++time 20150505.154000   , step    188; iteration    2
++time 20150505.154500   , step    189; iteration    1
++time 20150505.154500   , step    189; iteration    2
++time 20150505.155000   , step    190; iteration    1
++time 20150505.155000   , step    190; iteration    2
++time 20150505.155500   , step    191; iteration    1
++time 20150505.155500   , step    191; iteration    2
++time 20150505.160000   , step    192; iteration    1
++time 20150505.160000   , step    192; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.160500   , step    193; iteration    1
++time 20150505.160500   , step    193; iteration    2
++time 20150505.161000   , step    194; iteration    1
++time 20150505.161000   , step    194; iteration    2
++time 20150505.161500   , step    195; iteration    1
++time 20150505.161500   , step    195; iteration    2
++time 20150505.162000   , step    196; iteration    1
++time 20150505.162000   , step    196; iteration    2
++time 20150505.162500   , step    197; iteration    1
++time 20150505.162500   , step    197; iteration    2
++time 20150505.163000   , step    198; iteration    1
++time 20150505.163000   , step    198; iteration    2
++time 20150505.163500   , step    199; iteration    1
++time 20150505.163500   , step    199; iteration    2
++time 20150505.164000   , step    200; iteration    1
++time 20150505.164000   , step    200; iteration    2
++time 20150505.164500   , step    201; iteration    1
++time 20150505.164500   , step    201; iteration    2
++time 20150505.165000   , step    202; iteration    1
++time 20150505.165000   , step    202; iteration    2
++time 20150505.165500   , step    203; iteration    1
++time 20150505.165500   , step    203; iteration    2
++time 20150505.170000   , step    204; iteration    1
++time 20150505.170000   , step    204; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.170500   , step    205; iteration    1
++time 20150505.170500   , step    205; iteration    2
++time 20150505.171000   , step    206; iteration    1
++time 20150505.171000   , step    206; iteration    2
++time 20150505.171500   , step    207; iteration    1
++time 20150505.171500   , step    207; iteration    2
++time 20150505.172000   , step    208; iteration    1
++time 20150505.172000   , step    208; iteration    2
++time 20150505.172500   , step    209; iteration    1
++time 20150505.172500   , step    209; iteration    2
++time 20150505.173000   , step    210; iteration    1
++time 20150505.173000   , step    210; iteration    2
++time 20150505.173500   , step    211; iteration    1
++time 20150505.173500   , step    211; iteration    2
++time 20150505.174000   , step    212; iteration    1
++time 20150505.174000   , step    212; iteration    2
++time 20150505.174500   , step    213; iteration    1
++time 20150505.174500   , step    213; iteration    2
++time 20150505.175000   , step    214; iteration    1
++time 20150505.175000   , step    214; iteration    2
++time 20150505.175500   , step    215; iteration    1
++time 20150505.175500   , step    215; iteration    2
++time 20150505.180000   , step    216; iteration    1
++time 20150505.180000   , step    216; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.180500   , step    217; iteration    1
++time 20150505.180500   , step    217; iteration    2
++time 20150505.181000   , step    218; iteration    1
++time 20150505.181000   , step    218; iteration    2
++time 20150505.181500   , step    219; iteration    1
++time 20150505.181500   , step    219; iteration    2
++time 20150505.182000   , step    220; iteration    1
++time 20150505.182000   , step    220; iteration    2
++time 20150505.182500   , step    221; iteration    1
++time 20150505.182500   , step    221; iteration    2
++time 20150505.183000   , step    222; iteration    1
++time 20150505.183000   , step    222; iteration    2
++time 20150505.183500   , step    223; iteration    1
++time 20150505.183500   , step    223; iteration    2
++time 20150505.184000   , step    224; iteration    1
++time 20150505.184000   , step    224; iteration    2
++time 20150505.184500   , step    225; iteration    1
++time 20150505.184500   , step    225; iteration    2
++time 20150505.185000   , step    226; iteration    1
++time 20150505.185000   , step    226; iteration    2
++time 20150505.185500   , step    227; iteration    1
++time 20150505.185500   , step    227; iteration    2
++time 20150505.190000   , step    228; iteration    1
++time 20150505.190000   , step    228; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.190500   , step    229; iteration    1
++time 20150505.190500   , step    229; iteration    2
++time 20150505.191000   , step    230; iteration    1
++time 20150505.191000   , step    230; iteration    2
++time 20150505.191500   , step    231; iteration    1
++time 20150505.191500   , step    231; iteration    2
++time 20150505.192000   , step    232; iteration    1
++time 20150505.192000   , step    232; iteration    2
++time 20150505.192500   , step    233; iteration    1
++time 20150505.192500   , step    233; iteration    2
++time 20150505.193000   , step    234; iteration    1
++time 20150505.193000   , step    234; iteration    2
++time 20150505.193500   , step    235; iteration    1
++time 20150505.193500   , step    235; iteration    2
++time 20150505.194000   , step    236; iteration    1
++time 20150505.194000   , step    236; iteration    2
++time 20150505.194500   , step    237; iteration    1
++time 20150505.194500   , step    237; iteration    2
++time 20150505.195000   , step    238; iteration    1
++time 20150505.195000   , step    238; iteration    2
++time 20150505.195500   , step    239; iteration    1
++time 20150505.195500   , step    239; iteration    2
++time 20150505.200000   , step    240; iteration    1
++time 20150505.200000   , step    240; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.200500   , step    241; iteration    1
++time 20150505.200500   , step    241; iteration    2
++time 20150505.201000   , step    242; iteration    1
++time 20150505.201000   , step    242; iteration    2
++time 20150505.201500   , step    243; iteration    1
++time 20150505.201500   , step    243; iteration    2
++time 20150505.202000   , step    244; iteration    1
++time 20150505.202000   , step    244; iteration    2
++time 20150505.202500   , step    245; iteration    1
++time 20150505.202500   , step    245; iteration    2
++time 20150505.203000   , step    246; iteration    1
++time 20150505.203000   , step    246; iteration    2
++time 20150505.203500   , step    247; iteration    1
++time 20150505.203500   , step    247; iteration    2
++time 20150505.204000   , step    248; iteration    1
++time 20150505.204000   , step    248; iteration    2
++time 20150505.204500   , step    249; iteration    1
++time 20150505.204500   , step    249; iteration    2
++time 20150505.205000   , step    250; iteration    1
++time 20150505.205000   , step    250; iteration    2
++time 20150505.205500   , step    251; iteration    1
++time 20150505.205500   , step    251; iteration    2
++time 20150505.210000   , step    252; iteration    1
++time 20150505.210000   , step    252; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.210500   , step    253; iteration    1
++time 20150505.210500   , step    253; iteration    2
++time 20150505.211000   , step    254; iteration    1
++time 20150505.211000   , step    254; iteration    2
++time 20150505.211500   , step    255; iteration    1
++time 20150505.211500   , step    255; iteration    2
++time 20150505.212000   , step    256; iteration    1
++time 20150505.212000   , step    256; iteration    2
++time 20150505.212500   , step    257; iteration    1
++time 20150505.212500   , step    257; iteration    2
++time 20150505.213000   , step    258; iteration    1
++time 20150505.213000   , step    258; iteration    2
++time 20150505.213500   , step    259; iteration    1
++time 20150505.213500   , step    259; iteration    2
++time 20150505.214000   , step    260; iteration    1
++time 20150505.214000   , step    260; iteration    2
++time 20150505.214500   , step    261; iteration    1
++time 20150505.214500   , step    261; iteration    2
++time 20150505.215000   , step    262; iteration    1
++time 20150505.215000   , step    262; iteration    2
++time 20150505.215500   , step    263; iteration    1
++time 20150505.215500   , step    263; iteration    2
++time 20150505.220000   , step    264; iteration    1
++time 20150505.220000   , step    264; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.220500   , step    265; iteration    1
++time 20150505.220500   , step    265; iteration    2
++time 20150505.221000   , step    266; iteration    1
++time 20150505.221000   , step    266; iteration    2
++time 20150505.221500   , step    267; iteration    1
++time 20150505.221500   , step    267; iteration    2
++time 20150505.222000   , step    268; iteration    1
++time 20150505.222000   , step    268; iteration    2
++time 20150505.222500   , step    269; iteration    1
++time 20150505.222500   , step    269; iteration    2
++time 20150505.223000   , step    270; iteration    1
++time 20150505.223000   , step    270; iteration    2
++time 20150505.223500   , step    271; iteration    1
++time 20150505.223500   , step    271; iteration    2
++time 20150505.224000   , step    272; iteration    1
++time 20150505.224000   , step    272; iteration    2
++time 20150505.224500   , step    273; iteration    1
++time 20150505.224500   , step    273; iteration    2
++time 20150505.225000   , step    274; iteration    1
++time 20150505.225000   , step    274; iteration    2
++time 20150505.225500   , step    275; iteration    1
++time 20150505.225500   , step    275; iteration    2
++time 20150505.230000   , step    276; iteration    1
++time 20150505.230000   , step    276; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
++time 20150505.230500   , step    277; iteration    1
++time 20150505.230500   , step    277; iteration    2
++time 20150505.231000   , step    278; iteration    1
++time 20150505.231000   , step    278; iteration    2
++time 20150505.231500   , step    279; iteration    1
++time 20150505.231500   , step    279; iteration    2
++time 20150505.232000   , step    280; iteration    1
++time 20150505.232000   , step    280; iteration    2
++time 20150505.232500   , step    281; iteration    1
++time 20150505.232500   , step    281; iteration    2
++time 20150505.233000   , step    282; iteration    1
++time 20150505.233000   , step    282; iteration    2
++time 20150505.233500   , step    283; iteration    1
++time 20150505.233500   , step    283; iteration    2
++time 20150505.234000   , step    284; iteration    1
++time 20150505.234000   , step    284; iteration    2
++time 20150505.234500   , step    285; iteration    1
++time 20150505.234500   , step    285; iteration    2
++time 20150505.235000   , step    286; iteration    1
++time 20150505.235000   , step    286; iteration    2
++time 20150505.235500   , step    287; iteration    1
++time 20150505.235500   , step    287; iteration    2
++time 20150506.000000   , step    288; iteration    1
++time 20150506.000000   , step    288; iteration    2
++SWAN is processing output request    1
++SWAN is processing output request    2
+  Normal end of run wwm 
+

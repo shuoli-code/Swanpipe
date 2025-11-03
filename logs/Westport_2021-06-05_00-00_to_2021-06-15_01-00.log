@@ -1,0 +1,621 @@
+2025-10-21 04:22:30 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:22:31 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:22:31 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:23:00 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:23:01 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:27:19 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:27:20 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:27:20 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:27:48 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:27:49 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:27:50 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:27:50 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:27:50 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:27:50 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:30:18 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:30:19 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:30:19 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:30:43 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:30:44 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:30:45 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:33:41 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:33:41 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:33:41 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:34:07 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:34:08 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:34:09 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:34:25 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:34:26 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:34:26 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:34:52 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:34:53 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:37:42 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:37:42 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:37:42 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:38:07 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:38:08 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:38:28 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-10-21 04:38:28 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-10-21 04:38:28 [WARNING] swan.Westport: No wind file found or not enabled
+2025-10-21 04:38:28 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.swn
+2025-10-21 04:38:28 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-10-21 04:38:28 [INFO] swan.Westport: Simulation period: 2021-06-05_00-00 → 2021-06-15_01-00
+2025-10-21 04:38:28 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:38:28 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-21 04:39:19 [INFO] swan.Westport: SWAN finished successfully in 0.85 minutes.
+2025-10-21 04:39:19 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-10-21 04:39:19 [ERROR] swan.Westport: ❌ No .vtu files found in results directory.
+2025-10-21 04:39:19 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.tab
+2025-10-21 04:39:19 [ERROR] swan.Westport: Failed to read SWAN output: [Errno 2] No such file or directory: '/media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.tab'
+2025-10-21 04:41:33 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:41:34 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:41:34 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:42:00 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:42:01 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:42:02 [INFO] swan.Westport: Removing existing folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport_output
+2025-10-21 04:42:02 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:42:23 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-10-21 04:42:23 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-10-21 04:42:23 [WARNING] swan.Westport: No wind file found or not enabled
+2025-10-21 04:42:23 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.swn
+2025-10-21 04:42:23 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-10-21 04:42:23 [INFO] swan.Westport: Simulation period: 2021-06-05_00-00 → 2021-06-15_01-00
+2025-10-21 04:42:23 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:42:23 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-21 04:43:10 [INFO] swan.Westport: SWAN finished successfully in 0.78 minutes.
+2025-10-21 04:43:10 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-10-21 04:43:10 [ERROR] swan.Westport: ❌ No .vtu files found in results directory.
+2025-10-21 04:43:10 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.tab
+2025-10-21 04:43:10 [ERROR] swan.Westport: Failed to read SWAN output: [Errno 2] No such file or directory: '/media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.tab'
+2025-10-21 04:47:58 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:47:58 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:47:58 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:48:24 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:48:25 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:48:26 [INFO] swan.Westport: Removing existing folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport_output
+2025-10-21 04:48:26 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:48:43 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-21 04:48:44 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-21 04:48:44 [INFO] swan.Westport: ✅ Found 13 NetCDF files covering requested period
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-21 04:49:10 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-21 04:49:11 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/boundary_list.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/selected_node_coords.txt
+2025-10-21 04:49:12 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:49:32 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-10-21 04:49:33 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-10-21 04:49:33 [WARNING] swan.Westport: No wind file found or not enabled
+2025-10-21 04:49:33 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.swn
+2025-10-21 04:49:33 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-10-21 04:49:33 [INFO] swan.Westport: Simulation period: 2021-06-05_00-00 → 2021-06-15_01-00
+2025-10-21 04:49:33 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100
+2025-10-21 04:49:33 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-21 06:58:19 [INFO] swan.Westport: SWAN finished successfully in 128.77 minutes.
+2025-10-21 06:58:19 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-10-21 06:58:19 [INFO] swan.Westport: ✅ Using VTU file: Westport_239.vtu for time 2021-06-14 22:00:00
+2025-10-21 06:58:26 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_239_20210614220000.png
+2025-10-21 06:58:26 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.tab
+2025-10-21 06:58:26 [INFO] swan.Westport: SWAN output read successfully for 242 timesteps, using location 1 of 12
+2025-10-21 06:58:26 [INFO] swan.Westport: Reading observation files
+2025-10-21 06:58:27 [INFO] swan.Westport: Filtered observation data to 482 points between 2021-06-05 00:00:00 and 2021-06-15 01:00:00: note that hs/tp is for total, dir is for swell
+2025-10-21 06:58:27 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-10-21 06:58:27 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.515, RMSE=0.826, MAE=0.549, SI=0.348, Corr=0.798, Willmott=0.820, RelBias(%)=21.703
+2025-10-21 06:58:27 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.558, RMSE=2.356, MAE=1.690, SI=0.190, Corr=0.384, Willmott=0.562, RelBias(%)=4.505
+2025-10-21 06:58:27 [INFO] swan.Westport: Skill metrics for Dir: Bias=-1.706, RMSE=28.319, MAE=17.731, SI=0.110, Corr=0.358, Willmott=0.561, RelBias(%)=-0.664
+2025-10-21 06:58:28 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/SWAN_Validation_Rottnest.png
+2025-10-21 06:58:28 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-10-30 07:00:21 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spc
+2025-10-30 07:00:21 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: [Errno 2] No such file or directory: '/media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spc'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 627, in validate_swan_spectrum
+    with open(swan_spc_file, "r") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spc'
+2025-10-30 07:00:58 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:00:58 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: invalid literal for int() with base 10: '37                                  number of frequencies'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 633, in validate_swan_spectrum
+    nfreq = int(f.readline().strip())
+ValueError: invalid literal for int() with base 10: '37                                  number of frequencies'
+2025-10-30 07:03:05 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:03:05 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: 'builtin_function_or_method' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 633, in validate_swan_spectrum
+    nfreq = int(f.readline().strip().split[0])
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'builtin_function_or_method' object is not subscriptable
+2025-10-30 07:04:15 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:04:15 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: invalid literal for int() with base 10: 'NDIR'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 637, in validate_swan_spectrum
+    ndir = int(f.readline().strip().split(' ')[0])
+ValueError: invalid literal for int() with base 10: 'NDIR'
+2025-10-30 07:07:00 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:07:00 [WARNING] swan.Westport: ⚠ Target time 20210615.010000 not found in file.
+2025-10-30 07:09:07 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:09:07 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:09:07 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: 'str' object has no attribute 'strftime'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 707, in validate_swan_spectrum
+    plt.title(f"SWAN 1D Spectrum\n{stationnm} @ {target_time.strftime('%Y-%m-%d %H:%M:%S')}")
+                                                 ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'strftime'
+2025-10-30 07:10:57 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:10:57 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:10:57 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: 'str' object has no attribute 'strftime'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 707, in validate_swan_spectrum
+    plt.title(f"SWAN 1D Spectrum\n{stationnm} @ {target_time.strftime('%Y-%m-%d %H:%M:%S')}")
+                                                 ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'strftime'
+2025-10-30 07:11:47 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:11:47 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:11:47 [ERROR] swan.Westport: ❌ Failed to read or plot SWAN spectrum: 'str' object has no attribute 'strftime'
+Traceback (most recent call last):
+  File "/home/azureuser/project/SWANpipeline/swanmod/postprocess_output.py", line 710, in validate_swan_spectrum
+    out_file = output_dir / f"{config['project_name']}_{stationnm}_{target_time.strftime('%Y%m%d_%H%M%S')}_spec1D.png"
+                                                                    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'strftime'
+2025-10-30 07:12:14 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:12:15 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:12:15 [INFO] swan.Westport: ✅ 1D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210615.010000_spec1D.png
+2025-10-30 07:17:07 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:17:07 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:17:07 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210615.010000_spec2D.png
+2025-10-30 07:19:01 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:19:01 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:19:02 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210615.010000_spec2D.png
+2025-10-30 07:23:54 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:23:54 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-15 01:00:00
+2025-10-30 07:23:54 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210615.010000_spec2D.png
+2025-10-30 07:24:44 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:24:45 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-14 23:00:00
+2025-10-30 07:24:45 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210614.230000_spec2D.png
+2025-10-30 07:25:29 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202106050000_202106150100/Westport.spec
+2025-10-30 07:25:30 [INFO] swan.Westport: ✅ Found matching time step: 2021-06-14 23:00:00
+2025-10-30 07:25:30 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202106050000_202106150100/Westport_Rottnest_20210614.230000_spec2D.png

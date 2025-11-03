@@ -1,0 +1,3 @@
+Westport_202110010000_202112010000   Gen3, jonswap 3.3, csgima/ctheda 0.5   stopped at 2021.11.10
+Westport_202110010000_202111100000   Gen3, PM, csgima/ctheda 0.3
+Westport_202110010000_202111100500   Gen3 st6 uproxy 33, PM, csgima/ctheda 0.3

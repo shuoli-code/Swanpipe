@@ -1,0 +1,290 @@
+2025-10-31 12:14:21 [INFO] swan.Westport: 🌀 Preparing wind data between 2021-09-29 00:00:00 and 2021-12-03 00:00:00
+2025-10-31 12:14:21 [INFO] swan.Westport: 💾 Output file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Barrac2_2021_09_29_0000_to_2021_12_03_0000.dat
+2025-10-31 12:14:21 [INFO] swan.Westport: Lon/lat slice resolution: dx=0.04000°, dy=0.04000°
+2025-10-31 12:14:21 [INFO] swan.Westport: Target EPSG:7850 resolution: dx=3758.4 m, dy=4434.6 m
+2025-10-31 12:14:21 [INFO] swan.Westport: New projected grid: nx=23, ny=27
+2025-10-31 12:14:46 [INFO] swan.Westport: ✅ Interpolated wind data: 1561 timesteps, 23 x 27 grid starting/reso as 338532.62917465915, 6403976.356402224, 3758.396647814071, 4434.554447237328, 23, 27
+2025-10-31 12:14:46 [INFO] swan.Westport: 💨 SWAN wind file written: Barrac2_2021_09_29_0000_to_2021_12_03_0000.dat
+2025-10-31 12:14:46 [INFO] swan.Westport: ✅ Read 327 open boundary nodes from fort.14
+2025-10-31 12:14:47 [INFO] swan.Westport: ✅ Selected 50 evenly spaced boundary nodes
+2025-10-31 12:14:47 [INFO] swan.Westport: ✅ Found 64 NetCDF files covering requested period
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_23658_dist_601.24m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_85308_dist_2405.15m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_86684_dist_4810.32m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_99101_dist_7616.35m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_88531_dist_10021.56m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_64386_dist_12827.63m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_65079_dist_15232.89m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_99444_dist_18039.01m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_65373_dist_21429.75m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_65412_dist_24781.65m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_99310_dist_27388.14m.txt
+2025-10-31 12:18:17 [INFO] swan.Westport: 🟢 Saved node_64376_dist_31243.91m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_65299_dist_34038.03m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_65483_dist_37530.62m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_88367_dist_40674.00m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99290_dist_43118.90m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_64669_dist_46262.19m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_65073_dist_48707.11m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_102097_dist_52898.27m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99187_dist_56740.32m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99279_dist_60582.27m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_64680_dist_64075.00m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_87401_dist_66519.98m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_29331_dist_68964.86m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_61825_dist_71409.86m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99090_dist_73505.50m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_29476_dist_76299.78m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_63328_dist_78395.43m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_64351_dist_82237.50m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_87993_dist_85031.81m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_86588_dist_88524.65m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99143_dist_91668.24m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_99377_dist_95161.11m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_86595_dist_97955.47m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_63701_dist_100749.72m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_63812_dist_104592.02m.txt
+2025-10-31 12:18:18 [INFO] swan.Westport: 🟢 Saved node_63864_dist_108084.96m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_63881_dist_112276.46m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_87755_dist_115070.88m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_87752_dist_118664.68m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_64134_dist_121745.06m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_87799_dist_125338.78m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_64252_dist_128419.00m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_98928_dist_131242.59m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_63190_dist_134066.16m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_87613_dist_137146.29m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_29506_dist_139713.13m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_29313_dist_143049.97m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_84536_dist_145103.33m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: 🟢 Saved node_24150_dist_147561.81m.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: ✅ Boundary list saved: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/boundary_list.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: ✅ Saved coordinates: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/selected_node_coords.txt
+2025-10-31 12:18:19 [INFO] swan.Westport: Preparing SWAN run folder: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000
+2025-10-31 12:18:20 [INFO] swan.Westport: Preparing SWAN .swn file
+2025-10-31 12:18:20 [INFO] swan.Westport: Included 50 boundary files from boundary_list.txt
+2025-10-31 12:18:20 [INFO] swan.Westport: Included Barrac2_2021_09_29_0000_to_2021_12_03_0000.dat wind file
+2025-10-31 12:18:20 [INFO] swan.Westport: SWAN input file written → /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.swn
+2025-10-31 12:18:20 [INFO] swan.Westport: Starting SWAN for project: Westport
+2025-10-31 12:18:20 [INFO] swan.Westport: Simulation period: 2021-10-01_00-00 → 2021-12-01_00-00
+2025-10-31 12:18:20 [INFO] swan.Westport: Working directory: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000
+2025-10-31 12:18:20 [INFO] swan.Westport: Command: /usr/bin/time -p ./swanrun -input Westport -omp 88
+2025-10-31 22:27:02 [INFO] swan.Westport: SWAN finished successfully in 608.71 minutes.
+2025-10-31 22:27:02 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-10-31 22:27:02 [WARNING] swan.Westport: ⚠️ Exact match not found for 2021-11-30 23:00:00, using closest index 962
+2025-10-31 22:27:02 [INFO] swan.Westport: ✅ Using VTU file: Westport_962.vtu for time 2021-11-30 23:00:00
+2025-10-31 22:27:09 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_962_20211130230000.png
+2025-10-31 22:27:09 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-10-31 22:27:10 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-10-31 22:27:10 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-10-31 22:27:10 [INFO] swan.Westport: Reading observation files
+2025-10-31 22:27:11 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-10-31 22:27:11 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-10-31 22:27:11 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.367, RMSE=0.690, MAE=0.457, SI=0.281, Corr=0.786, Willmott=0.848, RelBias(%)=14.957
+2025-10-31 22:27:11 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.053, RMSE=1.419, MAE=1.063, SI=0.111, Corr=0.632, Willmott=0.759, RelBias(%)=0.420
+2025-10-31 22:27:11 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.966, RMSE=17.324, MAE=14.066, SI=0.069, Corr=0.461, Willmott=0.527, RelBias(%)=-3.958
+2025-10-31 22:27:12 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-10-31 22:27:12 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-10-31 22:27:12 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-10-31 22:27:12 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-10-31 22:27:12 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-10-31 22:27:14 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-10-31 22:27:14 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57781 records
+2025-10-31 22:27:15 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-10-31 22:27:15 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-10-31 22:27:17 [WARNING] swan.Westport: ⚠ Target time 20211130.230000 not found in file.
+2025-10-31 22:27:17 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-10-31 22:27:18 [WARNING] swan.Westport: ⚠ Target time 20211130.230000 not found in file.
+2025-10-31 22:27:18 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-10-31 22:27:18 [WARNING] swan.Westport: ⚠ Target time 2021-11-30 23:00:00 not found in SWAN file.
+2025-10-31 22:27:18 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-10-31 22:27:18 [INFO] swan.Westport: Closest observed file: 2021-11-30T23h13.dat (Δt=13.0 min)
+2025-11-01 01:48:39 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-11-01 01:48:39 [WARNING] swan.Westport: ⚠️ Exact match not found for 2021-11-30 23:00:00, using closest index 962
+2025-11-01 01:48:39 [INFO] swan.Westport: ✅ Using VTU file: Westport_962.vtu for time 2021-11-30 23:00:00
+2025-11-01 01:48:47 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_962_20211130230000.png
+2025-11-01 01:48:47 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 01:48:47 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 01:48:47 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 01:48:47 [INFO] swan.Westport: Reading observation files
+2025-11-01 01:48:48 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 01:48:48 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 01:48:48 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.367, RMSE=0.690, MAE=0.457, SI=0.281, Corr=0.786, Willmott=0.848, RelBias(%)=14.957
+2025-11-01 01:48:48 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.053, RMSE=1.419, MAE=1.063, SI=0.111, Corr=0.632, Willmott=0.759, RelBias(%)=0.420
+2025-11-01 01:48:48 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.966, RMSE=17.324, MAE=14.066, SI=0.069, Corr=0.461, Willmott=0.527, RelBias(%)=-3.958
+2025-11-01 01:48:49 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 01:48:49 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 01:48:49 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 01:48:49 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 01:48:49 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 01:48:52 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 01:48:52 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57781 records
+2025-11-01 01:48:52 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-11-01 01:48:52 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:48:55 [WARNING] swan.Westport: ⚠ Target time 20211130.230000 not found in file.
+2025-11-01 01:48:55 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:48:55 [WARNING] swan.Westport: ⚠ Target time 20211130.230000 not found in file.
+2025-11-01 01:48:55 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:48:56 [WARNING] swan.Westport: ⚠ Target time 2021-11-30 23:00:00 not found in SWAN file.
+2025-11-01 01:48:56 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:48:56 [INFO] swan.Westport: Closest observed file: 2021-11-30T23h13.dat (Δt=13.0 min)
+2025-11-01 01:50:49 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-11-01 01:50:49 [WARNING] swan.Westport: ⚠️ Exact match not found for 2021-11-29 23:00:00, using closest index 962
+2025-11-01 01:50:49 [INFO] swan.Westport: ✅ Using VTU file: Westport_962.vtu for time 2021-11-29 23:00:00
+2025-11-01 01:50:56 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_962_20211129230000.png
+2025-11-01 01:50:56 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 01:50:57 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 01:50:57 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 01:50:57 [INFO] swan.Westport: Reading observation files
+2025-11-01 01:50:58 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 01:50:58 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 01:50:58 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.367, RMSE=0.690, MAE=0.457, SI=0.281, Corr=0.786, Willmott=0.848, RelBias(%)=14.957
+2025-11-01 01:50:58 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.053, RMSE=1.419, MAE=1.063, SI=0.111, Corr=0.632, Willmott=0.759, RelBias(%)=0.420
+2025-11-01 01:50:58 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.966, RMSE=17.324, MAE=14.066, SI=0.069, Corr=0.461, Willmott=0.527, RelBias(%)=-3.958
+2025-11-01 01:50:59 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 01:50:59 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 01:50:59 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 01:50:59 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 01:50:59 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 01:51:02 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 01:51:02 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57781 records
+2025-11-01 01:51:03 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-11-01 01:51:03 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:51:04 [WARNING] swan.Westport: ⚠ Target time 20211129.230000 not found in file.
+2025-11-01 01:51:04 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:51:04 [WARNING] swan.Westport: ⚠ Target time 20211129.230000 not found in file.
+2025-11-01 01:51:04 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:51:04 [WARNING] swan.Westport: ⚠ Target time 2021-11-29 23:00:00 not found in SWAN file.
+2025-11-01 01:51:04 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 01:51:05 [INFO] swan.Westport: Closest observed file: 2021-11-29T23h13.dat (Δt=13.0 min)
+2025-11-01 02:00:36 [INFO] swan.Westport: ▶ Starting post-processing for Westport
+2025-11-01 02:00:36 [INFO] swan.Westport: ✅ Using VTU file: Westport_960.vtu for time 2021-11-09 23:00:00
+2025-11-01 02:00:43 [INFO] swan.Westport: ✅ Post-processing completed successfully. Figure saved as Westport_wave_fields_960_20211109230000.png
+2025-11-01 02:00:43 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 02:00:44 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 02:00:44 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 02:00:44 [INFO] swan.Westport: Reading observation files
+2025-11-01 02:00:45 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 02:00:45 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 02:00:45 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.367, RMSE=0.690, MAE=0.457, SI=0.281, Corr=0.786, Willmott=0.848, RelBias(%)=14.957
+2025-11-01 02:00:45 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.053, RMSE=1.419, MAE=1.063, SI=0.111, Corr=0.632, Willmott=0.759, RelBias(%)=0.420
+2025-11-01 02:00:45 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.966, RMSE=17.324, MAE=14.066, SI=0.069, Corr=0.461, Willmott=0.527, RelBias(%)=-3.958
+2025-11-01 02:00:45 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 02:00:45 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 02:00:45 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 02:00:46 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 02:00:46 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 02:00:48 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 02:00:48 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57781 records
+2025-11-01 02:00:49 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-11-01 02:00:49 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 02:00:50 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-01 02:00:50 [INFO] swan.Westport: ✅ 1D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_20211109.230000_spec1D.png
+2025-11-01 02:00:50 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 02:00:50 [INFO] swan.Westport: ✅ Found matching time step: 2021-11-09 23:00:00
+2025-11-01 02:00:51 [INFO] swan.Westport: ✅ 2D spectrum saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_20211109.230000_spec2D.png
+2025-11-01 02:00:51 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 02:00:51 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-11-01 02:00:51 [INFO] swan.Westport: SWAN_Hs from spectrum: 0.19299106977823255
+2025-11-01 02:00:51 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-09T23h13.dat (Δt = 13.0 min)
+2025-11-01 02:00:51 [INFO] swan.Westport: obs_hs from spectrum: 1.2490406869553092
+2025-11-01 02:00:51 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare_normalized.png
+2025-11-01 02:00:51 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 02:00:51 [INFO] swan.Westport: Closest observed file: 2021-11-09T23h13.dat (Δt=13.0 min)
+2025-11-01 02:00:52 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_20211109.230000_spec2D_compare.png
+2025-11-01 03:05:50 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 03:05:51 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 03:05:51 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 03:05:51 [INFO] swan.Westport: Reading observation files
+2025-11-01 03:05:51 [ERROR] swan.Westport: Failed to read observation data: Invalid comparison between dtype=datetime64[ns, UTC] and datetime
+2025-11-01 03:08:06 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 03:08:06 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 03:08:06 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 03:08:06 [INFO] swan.Westport: Reading observation files
+2025-11-01 03:08:07 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 03:08:07 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 03:08:07 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.383, RMSE=0.482, MAE=0.401, SI=0.197, Corr=0.949, Willmott=0.930, RelBias(%)=15.652
+2025-11-01 03:08:07 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.111, RMSE=1.261, MAE=0.906, SI=0.099, Corr=0.727, Willmott=0.813, RelBias(%)=0.874
+2025-11-01 03:08:07 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.872, RMSE=16.329, MAE=13.155, SI=0.065, Corr=0.573, Willmott=0.598, RelBias(%)=-3.923
+2025-11-01 03:08:08 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 03:08:08 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 03:10:45 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 03:10:46 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 03:10:46 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 03:10:46 [INFO] swan.Westport: Reading observation files
+2025-11-01 03:10:46 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 03:10:46 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 03:10:46 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.367, RMSE=0.690, MAE=0.457, SI=0.281, Corr=0.786, Willmott=0.848, RelBias(%)=14.957
+2025-11-01 03:10:46 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.053, RMSE=1.419, MAE=1.063, SI=0.111, Corr=0.632, Willmott=0.759, RelBias(%)=0.420
+2025-11-01 03:10:46 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.966, RMSE=17.324, MAE=14.066, SI=0.069, Corr=0.461, Willmott=0.527, RelBias(%)=-3.958
+2025-11-01 03:10:47 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 03:10:47 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 03:13:17 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 03:13:17 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 03:13:17 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 03:13:17 [INFO] swan.Westport: Reading observation files
+2025-11-01 03:13:18 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 03:13:18 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 03:13:18 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.383, RMSE=0.482, MAE=0.401, SI=0.197, Corr=0.949, Willmott=0.930, RelBias(%)=15.652
+2025-11-01 03:13:18 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.111, RMSE=1.261, MAE=0.906, SI=0.099, Corr=0.727, Willmott=0.813, RelBias(%)=0.874
+2025-11-01 03:13:18 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.872, RMSE=16.329, MAE=13.155, SI=0.065, Corr=0.573, Willmott=0.598, RelBias(%)=-3.923
+2025-11-01 03:13:19 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 03:13:19 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 03:13:19 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:13:19 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:13:19 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:13:21 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:13:21 [ERROR] swan.Westport: ❌ Failed to read BoM NetCDF: 2006-12-03 02:00:00
+2025-11-01 03:32:44 [INFO] swan.Westport: Reading SWAN output from /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.tab
+2025-11-01 03:32:45 [WARNING] swan.Westport: Time length mismatch: expected 1465 steps, found 964 lines
+2025-11-01 03:32:45 [INFO] swan.Westport: SWAN output read successfully for 964 timesteps, using location 1 of 12
+2025-11-01 03:32:45 [INFO] swan.Westport: Reading observation files
+2025-11-01 03:32:45 [INFO] swan.Westport: Filtered observation data to 2929 points between 2021-10-01 00:00:00 and 2021-12-01 00:00:00: note that hs/tp is for total, dir is for swell
+2025-11-01 03:32:45 [INFO] swan.Westport: Merging model and observation datasets by time
+2025-11-01 03:32:45 [INFO] swan.Westport: Skill metrics for Hs: Bias=0.383, RMSE=0.482, MAE=0.401, SI=0.197, Corr=0.949, Willmott=0.930, RelBias(%)=15.652
+2025-11-01 03:32:45 [INFO] swan.Westport: Skill metrics for Tp: Bias=0.111, RMSE=1.261, MAE=0.906, SI=0.099, Corr=0.727, Willmott=0.813, RelBias(%)=0.874
+2025-11-01 03:32:45 [INFO] swan.Westport: Skill metrics for Dir: Bias=-9.872, RMSE=16.329, MAE=13.155, SI=0.065, Corr=0.573, Willmott=0.598, RelBias(%)=-3.923
+2025-11-01 03:32:46 [INFO] swan.Westport: ✅ Validation figure saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_Validation_Rottnest.png
+2025-11-01 03:32:46 [INFO] swan.Westport: ✅ Validation process completed successfully
+2025-11-01 03:32:46 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:32:47 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:32:47 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:32:49 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:32:49 [ERROR] swan.Westport: ❌ Failed to read BoM NetCDF: Cannot convert tz-naive timestamps, use tz_localize to localize
+2025-11-01 03:34:05 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:34:05 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:34:05 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:34:07 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:34:07 [ERROR] swan.Westport: ❌ Failed to read BoM NetCDF: 2006-12-03 02:00:00
+2025-11-01 03:34:36 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:34:36 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:34:36 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:34:39 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:34:39 [ERROR] swan.Westport: ❌ Failed to read BoM NetCDF: 2006-12-03 02:00:00
+2025-11-01 03:37:48 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:37:48 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:37:48 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:37:50 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:37:51 [ERROR] swan.Westport: ❌ Failed to read BoM NetCDF: 2006-12-03 02:00:00
+2025-11-01 03:38:54 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:38:54 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:38:54 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:38:56 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:41:52 [INFO] swan.Westport: 🔹 Reading SWAN wind output
+2025-11-01 03:41:52 [INFO] swan.Westport: SWAN wind data read successfully for 964 timesteps
+2025-11-01 03:41:52 [INFO] swan.Westport: 🔹 Reading BoM wind file: /media/o2met/Project/swanpipe/obsdata/BOM/ROTTNEST.nc
+2025-11-01 03:41:55 [INFO] swan.Westport: BoM wind data loaded with 15123755 records
+2025-11-01 03:41:55 [INFO] swan.Westport: BoM data subsetted to SWAN time range: 57781 records
+2025-11-01 03:41:55 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/SWAN_vs_BoM_Wind_ROTTNEST.png
+2025-11-01 03:45:51 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 03:45:51 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-11-01 03:45:51 [INFO] swan.Westport: SWAN_Hs from spectrum: 0.19299106977823255
+2025-11-01 03:49:06 [INFO] swan.Westport: Reading SWAN spectrum file: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 03:49:06 [INFO] swan.Westport: ✅ Found matching SWAN time step: 2021-11-09 23:00:00
+2025-11-01 03:49:06 [INFO] swan.Westport: SWAN_Hs from spectrum: 0.19299106977823255
+2025-11-01 03:49:06 [INFO] swan.Westport: 📘 Closest observed file: 2021-11-10T07h13.dat (Δt = 13.0 min)
+2025-11-01 03:49:06 [INFO] swan.Westport: obs_hs from spectrum: 1.2480442645419791
+2025-11-01 03:49:07 [INFO] swan.Westport: ✅ Comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_2021-11-09 23:00:00_spec1D_compare_normalized.png
+2025-11-01 03:52:55 [INFO] swan.Westport: Reading SWAN spectrum: /media/o2met/Project/swanpipe/prepcases/Westport_202110010000_202112010000/Westport.spec
+2025-11-01 03:52:56 [INFO] swan.Westport: Closest observed file: 2021-11-10T07h13.dat (Δt=13.0 min)
+2025-11-01 03:52:56 [INFO] swan.Westport: ✅ 2D comparison plot saved: /media/o2met/Project/swanpipe/postprocess/Westport_202110010000_202112010000/Westport_Rottnest_20211109.230000_spec2D_compare.png
